@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Minjae Kwen
+  url:               minjaekwen.github.io
+  email:             kmjaday0082@gmail.com
 
 plugins:
   - jekyll-coffeescript
