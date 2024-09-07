@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![](/images/HomeImg.png)
+![](/images/HomeImg.png){: width="400" height="200"}
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
