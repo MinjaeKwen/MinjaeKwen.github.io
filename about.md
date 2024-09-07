@@ -3,6 +3,10 @@ layout: page
 title: About Me
 ---
 
+<p align="center">
+    <img src="images/HomeImg.png" height="400" width="800" />
+</p>
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
