@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p align="center">
-    <img src="images/HomeImg.png" height="300" width="600" />
+    <img src="/images/HomeImg.png" height="300" width="600" />
 </p>
 
 <p class="message">
