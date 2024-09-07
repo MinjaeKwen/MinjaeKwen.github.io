@@ -20,3 +20,4 @@ Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nico
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
 
 Thanks for reading!
+
