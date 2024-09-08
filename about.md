@@ -15,11 +15,11 @@ My research interest is primarily in <strong>computational chemistry</strong>. I
 
 Here are more details about my life!<br>
 <strong><i>Feb. 2019 - Present</i> : Undergraduate Student, Chemistry Dep., KAIST (Academic Advisor: Pf. Mi Hee Lim)</strong><br>
-      * KAIST Presidential Fellowship (Mentor Professor: Pf. Hyunjoon Song)<br>
-      <i>Sep. 2021 - Present</i> : Research, M-design Laboratory, KAIST (Research Advisor: Pf. Hyungjun Kim) <br>
-      <i>May. 2022 - Feb. 2024</i> : Social Service, Dangaram Kindergarten<br>
-      <i>Apr. 2021 - Aug. 2021</i> : Research, Nanocatalyst Research Laboratory, KAIST (Research Advisor: Pf. Hyunjoon Song)<br>
-      <i>Dec. 2020 - Feb. 2021</i> : Research, Electrochemical Materials Design Laboratory, KAIST (Research Advisor: Pf. Hye Ryung Byon)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* KAIST Presidential Fellowship (Mentor Professor: Pf. Hyunjoon Song)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Sep. 2021 - Present</i> : Research, M-design Laboratory, KAIST (Research Advisor: Pf. Hyungjun Kim) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>May. 2022 - Feb. 2024</i> : Social Service, Dangaram Kindergarten<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Apr. 2021 - Aug. 2021</i> : Research, Nanocatalyst Research Laboratory, KAIST (Research Advisor: Pf. Hyunjoon Song)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dec. 2020 - Feb. 2021</i> : Research, Electrochemical Materials Design Laboratory, KAIST (Research Advisor: Pf. Hye Ryung Byon)<br>
 <strong><i>Mar. 2016 - Feb. 2019</i> : Daegu Science High School</strong>
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
