@@ -23,7 +23,7 @@ In addition, I have experience in nanocatalyst synthesis and electrochemical sys
 </p>
 
 As an alternative military service, I worked at <strong>Dangaram Kindergarten</strong> from May 2022 to February 2024. I cared for children with developmental disabilities and mental disorders. I received a <a href="/files/Certificate_of_Commendation.pdf"><strong>Certificate of Commendation</strong></a> for praising for faithful social service. This experience taught me how to approach challenges with a positive mindset. <br>
-I have been actively involved in <strong>volunteer work</strong> since middle school. Throughout my time at university, I have consistently volunteered over 30 hours each year. (<a href="/files/Certificate_of_Volunteer(Feb2019-Feb2024).pdf">"Certificate_of_Volunteer(Feb2019-Feb2024).pdf"</a><br>
+I have been actively involved in <strong>volunteer work</strong> since middle school. Throughout my time at university, I have consistently volunteered over 30 hours each year. (<a href="/files/Certificate_of_Volunteer(Feb2019-Feb2024).pdf">"Certificate_of_Volunteer(Feb2019-Feb2024).pdf"</a>, Korean)<br>
 I enjoy playing and watching sports, especially baseball. I was a member of the <strong>KAIST baseball club "Rookie",</strong> for two years.
 
 Here is my <i>Curriculum Vitae</i>: <a href="/files/MinjaeKwen_CV.pdf">MinjaeKwen_CV.pdf</a><br>
