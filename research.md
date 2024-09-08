@@ -9,8 +9,10 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>1.<br>
-        <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
+      <strong>1.</strong>
+</p>
+<p style="font-size: 125%;">
+        <strong><a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
 Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</strong>
 </p>
 
@@ -26,8 +28,10 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>2. [On-going]<br>
-        Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
+      <strong>2. [On-going] </strong>
+</p>
+<p style="font-size: 125%;">
+      <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
 </p>
 
 <strong>Laboratory, Co-worker and Advisor</strong><br>
@@ -42,8 +46,11 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>3. <br>
-        Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient Nitrogen Oxide Reduction through a Density-Functional Theory Study</strong>
+      <strong>3. </strong>
+</p>
+<p style="font-size: 125%;">
+      <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
+TPP using Density-Functional Theory</strong>
 </p>
 
 <strong>Laboratory, Co-worker and Advisor</strong><br>
@@ -54,7 +61,7 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
-(<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Poster</a>)
+Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient Nitrogen Oxide Reduction through a Density-Functional Theory Study</a>
 
 
 * [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
