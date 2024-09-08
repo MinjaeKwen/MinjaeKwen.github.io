@@ -29,17 +29,40 @@ title: Research
       <strong>On-going Project</strong>
 </p>
 
-<strong>Title</strong>
-Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide
+<p style="font-size: 120%;">
+      <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
+</p>
 
 <strong>Laboratory and Advisor</strong>
-M-design Laboratory, Pf. Hyungjun Kim
+&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim
 
 <strong>Introduction</strong>
-Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
+&nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
 
 <strong>Results and others</strong>
-To be presented in poster session of ISTCP 2024 (<a href="Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
+&nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
+
+<!--===========================================-->
+<p style="font-size: 150%;">
+      <strong>Finished Project</strong>
+</p>
+
+<p style="font-size: 120%;">
+      <strong>1.<br>
+        Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
+Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
+</p>
+
+<strong>Laboratory and Advisor</strong>
+&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim
+
+<strong>Introduction</strong>
+&nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation
+
+<strong>Results and others</strong>
+&nbsp;&nbsp;&nbsp;Published at <i>Journal of the American Chemical Society</i>, as a co-first author<br>
+<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+
 
 * [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
 * [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
