@@ -3,21 +3,16 @@ layout: page
 title: About Me
 ---
 
-![](/images/AboutMe.png){: width="400" height="200"}
+![](/images/AboutMe.png){: width="600" height="300"}
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am <a href="/files/Curriculum_Vitae.pdf">Minjae Kwen</a>.
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+I am an undergraduate student in the chemistry department of KAIST. As an undergraduate researcher, I actively participated in the research at the M-design Laboratory. My research advisor is Pf. Hyungjun Kim at KAIST. 
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
+My research interest is primarily in <strong>computational chemistry</strong>. I am familiar with <i>ab-initio</i> quantum calculation, especially <strong>Density Functional Theory(DFT)</strong>. I have researched the catalytic system and investigated the mechanisms that enhance the catalytic efficiencies. Currently, I am studying <strong>nonadiabatic dynamics simulations</strong>, including surface hopping, which helps the understanding of photon-related reactions and carrier dynamics.
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
+I have various research experiences in different laboratories and believe this can help my understanding for better 
 
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
 
