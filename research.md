@@ -12,7 +12,7 @@ title: Research
       <strong>Research 1.</strong>
 </p>
 <p style="font-size: 125%;">
-        <strong><a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
+        <strong><a href="https://minjaekwen.github.io/research1">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
 Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</strong>
 </p>
 
