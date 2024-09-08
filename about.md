@@ -11,20 +11,13 @@ title: About Me
 
 I am an undergraduate student in the chemistry department of KAIST. As an undergraduate researcher, I actively participated in the research at the M-design Laboratory. My research advisor is Pf. Hyungjun Kim at KAIST. 
 
-My research interest is primarily in <strong>computational chemistry</strong>. I am familiar with <i>ab-initio</i> quantum calculation, especially <strong>Density Functional Theory(DFT)</strong>. I have researched the catalytic system and investigated the mechanisms that enhance the catalytic efficiencies. Currently, I am studying <strong>nonadiabatic dynamics simulations</strong>, including surface hopping, which helps the understanding of photon-related reactions and carrier dynamics.
+My research interest is primarily in <strong>computational chemistry</strong>. I am familiar with <i>ab-initio</i> quantum calculation, especially <strong>Density Functional Theory(DFT)</strong>. I have researched the catalytic system and investigated the mechanisms that enhance the catalytic efficiencies. Currently, I am studying <strong>nonadiabatic dynamics simulations</strong>, including surface hopping, which helps the understanding of photon-related reactions and carrier dynamics.<br>
+I also have research experience in nanocatalyst synthesis and electrochemical system design. If you want to know about my research experiences more, please visit the <strong><a href="https://www.minjaekwen.github.io/research/">"research"</a></strong> section of this website.
 
-
-
-Here are more details about my life!<br>
-<strong><i>Feb. 2019 - Present</i> : Undergraduate Student, Chemistry Dep., KAIST (Academic Advisor: Pf. Mi Hee Lim)</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* KAIST Presidential Fellowship (Mentor Professor: Pf. Hyunjoon Song)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Sep. 2021 - Present</i> : Research, M-design Laboratory, KAIST (Research Advisor: Pf. Hyungjun Kim) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>May. 2022 - Feb. 2024</i> : Social Service, Dangaram Kindergarten<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Apr. 2021 - Aug. 2021</i> : Research, Nanocatalyst Research Laboratory, KAIST (Research Advisor: Pf. Hyunjoon Song)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dec. 2020 - Feb. 2021</i> : Research, Electrochemical Materials Design Laboratory, KAIST (Research Advisor: Pf. Hye Ryung Byon)<br>
-<strong><i>Mar. 2016 - Feb. 2019</i> : Daegu Science High School</strong>
+As an alternative to military service, I worked in the Dangaram Kindergarten from May 2022 to Feb 2024. I took care of children with mental disorders or developmental disabilities. During this period, I learned the way to overcome the difficulties with the positive mindset. <br>
+I like playing and watching sports, especially baseball. I was in the baseball club of the KAIST, Rookie for two years.
 
 Here is my <a href="/files/MinjaeKwen_CV.pdf"><i>Curriculum Vitae</i></a> : <a href="/files/MinjaeKwen_CV.pdf">MinjaeKwen_CV.pdf</a><br>
-If you want to know about my research experiences more, please visit the <strong><a href="https://www.minjaekwen.github.io/research/">"research"</a></strong> section of this website.
+
 
 Thanks for reading!
