@@ -5,7 +5,7 @@ title: About Me
 
 <img src="/images/AboutMe.png" style="max-width: 100%; height: auto;" />
 
-I am <a href="/files/Curriculum_Vitae.pdf">Minjae Kwen</a>.
+I am <a href="/files/MinjaeKwen_CV.pdf">Minjae Kwen</a>.
 
 I am an undergraduate student in the chemistry department of KAIST. As an undergraduate researcher, I actively participated in the research at the M-design Laboratory. My research advisor is Pf. Hyungjun Kim at KAIST. 
 
