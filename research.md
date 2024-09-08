@@ -10,12 +10,12 @@ title: Research
 <!--===========================================-->
 <p style="font-size: 150%;">
       <strong>1.<br>
-        Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
-Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
+        <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
+Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</strong>
 </p>
 
-<strong>Laboratory and Advisor</strong>
-&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim
+<strong>Laboratory, Co-worker and Advisor</strong>
+&nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim
 
 <strong>Introduction</strong>
 &nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation
@@ -30,14 +30,31 @@ Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
         Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
 </p>
 
-<strong>Laboratory and Advisor</strong><br>
-&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim
+<strong>Laboratory, Co-worker and Advisor</strong><br>
+&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim<br>
+&nbsp;&nbsp;&nbsp;(Experimental co-worker: Yaejun Baik et al., Pf. Minkee Choi)
 
 <strong>Introduction</strong><br>
 &nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
 
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
+
+<!--===========================================-->
+<p style="font-size: 150%;">
+      <strong>3. <br>
+        Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient Nitrogen Oxide Reduction through a Density-Functional Theory Study</strong>
+</p>
+
+<strong>Laboratory, Co-worker and Advisor</strong><br>
+&nbsp;&nbsp;&nbsp;M-design Laboratory, Junsoo Lee, Woojung Seung, Pf. Hyungjun Kim
+
+<strong>Introduction</strong><br>
+&nbsp;&nbsp;&nbsp;
+
+<strong>Results and others</strong><br>
+&nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
+(<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Poster</a>)
 
 
 * [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
