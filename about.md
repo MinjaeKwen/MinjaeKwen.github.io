@@ -13,6 +13,8 @@ I am an undergraduate student in the chemistry department of KAIST. As an underg
 
 My research interest is primarily in <strong>computational chemistry</strong>. I am familiar with <i>ab-initio</i> quantum calculation, especially <strong>Density Functional Theory(DFT)</strong>. I have researched the catalytic system and investigated the mechanisms that enhance the catalytic efficiencies. Currently, I am studying <strong>nonadiabatic dynamics simulations</strong>, including surface hopping, which helps the understanding of photon-related reactions and carrier dynamics.
 
+
+
 Here are more details about my life!<br>
 <strong><i>Feb. 2019 - Present</i> : Undergraduate Student, Chemistry Dep., KAIST (Academic Advisor: Pf. Mi Hee Lim)</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* KAIST Presidential Fellowship (Mentor Professor: Pf. Hyunjoon Song)<br>
@@ -22,6 +24,7 @@ Here are more details about my life!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dec. 2020 - Feb. 2021</i> : Research, Electrochemical Materials Design Laboratory, KAIST (Research Advisor: Pf. Hye Ryung Byon)<br>
 <strong><i>Mar. 2016 - Feb. 2019</i> : Daegu Science High School</strong>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
+Here is my <a href="/files/MinjaeKwen_CV.pdf"><i>Curriculum Vitae</i></a> : <a href="/files/MinjaeKwen_CV.pdf">MinjaeKwen_CV.pdf</a>
+If you want to know about my research experiences more, please visit the <strong><a href="https://www.minjaekwen.github.io/research/">"research"</a></strong> section of this website.
 
 Thanks for reading!
