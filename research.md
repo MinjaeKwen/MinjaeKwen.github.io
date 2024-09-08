@@ -25,10 +25,10 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;Published at <i>Journal of the American Chemical Society</i>, as a co-first author<br>
 &nbsp;&nbsp;&nbsp;<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
-<br>
+
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>Research 2. [On-going] </strong>
+      <br><strong>Research 2. [On-going] </strong>
 </p>
 <p style="font-size: 125%;">
       <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
@@ -46,7 +46,7 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 <br>
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>Research 3. </strong>
+      <br><strong>Research 3. </strong>
 </p>
 <p style="font-size: 125%;">
       <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
@@ -65,7 +65,7 @@ Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unrav
 <br>
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>Research 4. </strong>
+      <br><strong>Research 4. </strong>
 </p>
 <p style="font-size: 125%;">
       <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
@@ -80,7 +80,7 @@ Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unrav
 <br>
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>Research 5. </strong>
+      <br><strong>Research 5. </strong>
 </p>
 <p style="font-size: 125%;">
       <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
