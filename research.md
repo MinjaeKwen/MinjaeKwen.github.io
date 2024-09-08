@@ -9,7 +9,7 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>1.</strong>
+      <strong>Research 1.</strong>
 </p>
 <p style="font-size: 125%;">
         <strong><a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
@@ -28,7 +28,7 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>2. [On-going] </strong>
+      <strong>Research 2. [On-going] </strong>
 </p>
 <p style="font-size: 125%;">
       <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
@@ -46,7 +46,7 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <strong>3. </strong>
+      <strong>Research 3. </strong>
 </p>
 <p style="font-size: 125%;">
       <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
@@ -62,6 +62,39 @@ TPP using Density-Functional Theory</strong>
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
 Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient Nitrogen Oxide Reduction through a Density-Functional Theory Study</a>
+
+<!--===========================================-->
+<p style="font-size: 150%;">
+      <strong>Research 4. </strong>
+</p>
+<p style="font-size: 125%;">
+      <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
+</p>
+
+<strong>Laboratory and Advisor</strong><br>
+&nbsp;&nbsp;&nbsp;Nanocatalyst Research Laboratory, Pf. Hyunjoon Song<br>
+
+<strong>Introduction</strong><br>
+&nbsp;&nbsp;&nbsp;Studied the synthetic methods of Au NPs, Ag nanorods, Cu MOFs, etc<br>
+&nbsp;&nbsp;&nbsp;Applied the nanoparticles to electrocatalysts
+
+<!--===========================================-->
+<p style="font-size: 150%;">
+      <strong>Research 5. </strong>
+</p>
+<p style="font-size: 125%;">
+      <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
+Salt</strong>
+</p>
+
+<strong>Laboratory and Advisor</strong><br>
+&nbsp;&nbsp;&nbsp;Electrochemical Materials Design Laboratory, Pf. Hye Ryung Byon<br>
+
+<strong>Introduction</strong><br>
+&nbsp;&nbsp;&nbsp;Investigate the electrochemical potential window of the aqueous Li-ion battery with various Li salt
+
+<strong>Results and others</strong><br>
+&nbsp;&nbsp;&nbsp;Presentation in Lab meeting (<a href="">"MinjaeKwen_Research_EMDL.pdf"</a>)
 
 
 * [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
