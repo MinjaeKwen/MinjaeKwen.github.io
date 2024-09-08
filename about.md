@@ -37,4 +37,3 @@ I enjoy playing and watching sports, especially baseball. I was a member of the 
 <a href="/files/MinjaeKwen_CV.pdf">MinjaeKwen_CV.pdf</a>
 
 
-Thanks for reading!
