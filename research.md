@@ -4,7 +4,7 @@ title: Research
 ---
 
 <p class="message">
-  CatchPhrase for my research
+  <i>Attempt for better computational methods, without loss of the spirit of chemistry</i>
 </p>
 
 <!--===========================================-->
