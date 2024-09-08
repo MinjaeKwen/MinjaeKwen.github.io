@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![](/images/AboutMe.png){: width="600" height="300"}
+<img src="/images/AboutMe.png" style="max-width: 100%; height: auto;" />
 
 I am <a href="/files/Curriculum_Vitae.pdf">Minjae Kwen</a>.
 
