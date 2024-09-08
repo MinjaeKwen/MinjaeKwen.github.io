@@ -30,7 +30,7 @@ I have been actively involved in <a href="/files/Certificate_of_Volunteer(Feb201
 I enjoy playing and watching sports, especially baseball. I was a member of the <strong>KAIST baseball club "Rookie",</strong> for two years.
 
 
-<p style="font-size: 110%;">
+<p style="font-size: 150%;">
       <strong>Curriculum Vitae</strong>
 </p>
 
