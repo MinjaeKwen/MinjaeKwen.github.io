@@ -16,16 +16,16 @@ title: Research
 Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</strong>
 </p>
 
-<strong>Laboratory, Co-worker and Advisor</strong>
+<strong>Laboratory, Co-worker and Advisor</strong><br>
 &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim
 
-<strong>Introduction</strong>
+<strong>Introduction</strong><br>
 &nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation
 
-<strong>Results and others</strong>
+<strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;Published at <i>Journal of the American Chemical Society</i>, as a co-first author<br>
-<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
-
+&nbsp;&nbsp;&nbsp;<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <strong>Research 2. [On-going] </strong>
@@ -43,7 +43,7 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
-
+<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <strong>Research 3. </strong>
@@ -62,7 +62,7 @@ TPP using Density-Functional Theory</strong>
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
 Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient Nitrogen Oxide Reduction through a Density-Functional Theory Study</a>
-
+<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <strong>Research 4. </strong>
@@ -77,7 +77,7 @@ Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unrav
 <strong>Introduction</strong><br>
 &nbsp;&nbsp;&nbsp;Studied the synthetic methods of Au NPs, Ag nanorods, Cu MOFs, etc<br>
 &nbsp;&nbsp;&nbsp;Applied the nanoparticles to electrocatalysts
-
+<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <strong>Research 5. </strong>
