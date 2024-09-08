@@ -57,7 +57,7 @@ TPP using Density-Functional Theory</strong>
 &nbsp;&nbsp;&nbsp;M-design Laboratory, Junsoo Lee, Woojung Seung, Pf. Hyungjun Kim
 
 <strong>Introduction</strong><br>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Screening study to find the transition metal for efficient electrocatalyst of NORR, using DFT calculation
 
 <strong>Results and others</strong><br>
 &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
