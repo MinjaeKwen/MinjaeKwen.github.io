@@ -7,7 +7,21 @@ title: Research
   CatchPhrase for my research
 </p>
 
+<p style="font-size: 150%;">
+      <strong>On-going Project</strong>
+</p>
 
+<strong>Title</strong>
+Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide
+
+<strong>Laboratory and Advisor</strong>
+M-design Laboratory, Pf. Hyungjun Kim
+
+<strong>Introduction</strong>
+Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
+
+<strong>Results and others</strong>
+To be presented in poster session of ISTCP 2024 (<a href="Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
 
 In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
 
