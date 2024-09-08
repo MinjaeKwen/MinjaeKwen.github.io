@@ -4,8 +4,7 @@ title: Research
 ---
 
 <p class="message">
-  Attempt for better computational methods, <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;without loss of <i>the spirit of chemistry</i>
+  <br>Attempt for better computational methods, without loss of <i>the spirit of chemistry</i><br>
 </p>
 
 <!--===========================================-->
