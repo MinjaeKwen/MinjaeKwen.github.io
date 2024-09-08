@@ -6,7 +6,25 @@ title: Research
 <p class="message">
   CatchPhrase for my research
 </p>
+<!--===========================================-->
+<p style="font-size: 150%;">
+      <strong>On-going Project</strong>
+</p>
 
+<p style="font-size: 125%;">
+      <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
+</p>
+
+<strong>Laboratory and Advisor</strong><br>
+&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim
+
+<strong>Introduction</strong><br>
+&nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
+
+<strong>Results and others</strong><br>
+&nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
+
+<!--===========================================-->
 <p style="font-size: 150%;">
       <strong>On-going Project</strong>
 </p>
@@ -22,8 +40,6 @@ Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using sem
 
 <strong>Results and others</strong>
 To be presented in poster session of ISTCP 2024 (<a href="Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
-
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
 
 * [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
 * [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
