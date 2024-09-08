@@ -24,7 +24,7 @@ Here are more details about my life!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dec. 2020 - Feb. 2021</i> : Research, Electrochemical Materials Design Laboratory, KAIST (Research Advisor: Pf. Hye Ryung Byon)<br>
 <strong><i>Mar. 2016 - Feb. 2019</i> : Daegu Science High School</strong>
 
-Here is my <a href="/files/MinjaeKwen_CV.pdf"><i>Curriculum Vitae</i></a> : <a href="/files/MinjaeKwen_CV.pdf">MinjaeKwen_CV.pdf</a>
+Here is my <a href="/files/MinjaeKwen_CV.pdf"><i>Curriculum Vitae</i></a> : <a href="/files/MinjaeKwen_CV.pdf">MinjaeKwen_CV.pdf</a><br>
 If you want to know about my research experiences more, please visit the <strong><a href="https://www.minjaekwen.github.io/research/">"research"</a></strong> section of this website.
 
 Thanks for reading!
