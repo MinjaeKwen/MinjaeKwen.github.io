@@ -15,7 +15,7 @@ My research interest is primarily in <strong>computational chemistry</strong>. I
 
 Here are more details about my life!<br>
 <strong><i>Feb. 2019 - Present</i> : Undergraduate Student, Chemistry Dep., KAIST (Academic Advisor: Pf. Mi Hee Lim)</strong>
-<div style="margin-left: 5px">
+<div style="margin: 0px 0px 0px 5px">
       * KAIST Presidential Fellowship (Advisor for fellowship: Pf. Hyunjoon Song)
       <i>Sep. 2021 - Present</i> : Research, M-design Laboratory, KAIST (Research Advisor: Pf. Hyungjun Kim) <br>
       <i>May. 2022 - Feb. 2024</i> : Social Service, Dangaram Kindergarten<br>
