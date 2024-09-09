@@ -9,8 +9,8 @@ title: Research
 
 <!--===========================================-->
 
-<div style="float:left;">
-  <img src="/images/R1_TN.png" style="width:50px; height:40px;" />
+<div style="width:200px; height:160px; float:left;">
+  <img src="/images/R1_TN.png" style="width:200px; height:160px;" />
 </div>
 
 <p style="font-size: 150%;">
