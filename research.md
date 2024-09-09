@@ -14,6 +14,7 @@ title: Research
 </p>
 
 <!--
+
 <div style="max-width:30%; height:auto; border:2px solid black; float:left; margin-right:30px; margin-bottom:10px;">
   <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_TN.png" style="width:200px; height:160px;" />
