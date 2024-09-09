@@ -9,6 +9,10 @@ title: Research
 
 <!--===========================================-->
 
+<p style="font-size: 150%;">
+      <strong>Research 1.</strong>
+</p>
+
 <div style="width:200px; height:160px; float:left;">
   <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_TN.png" style="width:200px; height:160px;" />
@@ -20,9 +24,7 @@ title: Research
   </a>
 </div>
 
-<p style="font-size: 150%;">
-      <strong>Research 1.</strong>
-</p>
+
 <p style="font-size: 125%;">
         <strong><a href="https://minjaekwen.github.io/research1">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
 Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</strong>
