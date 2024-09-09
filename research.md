@@ -18,7 +18,7 @@ title: Research
     <img src="/images/R1_TN.png" style="width:200px; height:160px;" />
   </a>
 </div>
-<p style="max-width:65%; height:auto; font-size: 120%">
+<p style="max-width:100%; height:auto; font-size: 120%">
   <a href="https://minjaekwen.github.io/research1">
     <strong>Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
   </a>
