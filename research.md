@@ -33,7 +33,7 @@ title: Research
 
 <p align="center" style="margin-top:0px; border:1px solid black">
   <a href="https://minjaekwen.github.io/research1">
-    <img src="/images/R1_full.png" style="max-width:75%; height:auto;" />
+    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
 
