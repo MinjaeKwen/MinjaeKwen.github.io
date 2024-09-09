@@ -13,16 +13,16 @@ title: Research
       <strong>Research 1.</strong>
 </p>
 
-<div style="width:200px; height:160px; border:5px solid black; float:left; margin-right:30px">
+<div style="width:200px; height:160px; border:2px solid black; float:left; margin-right:30px">
   <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_TN.png" style="width:200px; height:160px;" />
   </a>
 </div>
-<div style="height:160px; float:left;">
+<p style="height:160px;">
   <a href="https://minjaekwen.github.io/research1">
     <strong>Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
   </a>
-</div>
+</p>
 
 <!--
 <p style="font-size: 125%;">
