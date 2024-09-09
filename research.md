@@ -32,9 +32,11 @@ title: Research
 </a>
 </p>
 
+<p align="center">
 <a href="https://minjaekwen.github.io/research1">
   <img src="/images/R1_full.png" style="max-width:50%; height:auto;" />
 </a>
+</p>
 
 
 - Published: <a href="https://minjaekwen.github.io/research1">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
