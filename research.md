@@ -9,7 +9,7 @@ title: Research
 
 <!--===========================================-->
 
-<div style="width:50px; height:40px; float:left;">
+<div style="float:left;">
   <img src="/images/R1_TN.png" style="width:50px; height:40px;" />
 </div>
 
