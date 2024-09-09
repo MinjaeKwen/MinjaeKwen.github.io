@@ -32,14 +32,14 @@ Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</str
 -->
 <p style="clear:left;">
   <strong>Laboratory, Co-worker and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim
+  &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim<br>
 
   <strong>Introduction</strong><br>
-  &nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation
+  &nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation<br>
 
   <strong>Results and others</strong><br>
   &nbsp;&nbsp;&nbsp;Published at <i>Journal of the American Chemical Society</i>, as a co-first author<br>
-  &nbsp;&nbsp;&nbsp;<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+  &nbsp;&nbsp;&nbsp;<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a><br>
 </p>
 <!--===========================================-->
 <p style="font-size: 150%;">
