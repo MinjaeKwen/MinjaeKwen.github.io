@@ -8,6 +8,11 @@ title: Research
 </p>
 
 <!--===========================================-->
+
+<div style="width:50px; height:40px; float:left;">
+  <img src="/images/R1_TN.png"/>
+</div>
+
 <p style="font-size: 150%;">
       <strong>Research 1.</strong>
 </p>
