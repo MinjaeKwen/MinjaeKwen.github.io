@@ -25,15 +25,20 @@ title: Research
   </a>
 </p>
 -->
-<a href="https://minjaekwen.github.io/research1">
-  <img src="/images/R1_full.png" style="max-width:75%; height:auto;" />
-</a>
 
 <p style="font-size: 125%;">
 <a href="https://minjaekwen.github.io/research1">
         <strong>Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
 </a>
 </p>
+
+<a href="https://minjaekwen.github.io/research1">
+  <img src="/images/R1_full.png" style="max-width:50%; height:auto;" />
+</a>
+
+
+- Published: <a href="https://minjaekwen.github.io/research1">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+
 
 <p style="clear:left;">
   <strong>Laboratory, Co-worker and Advisor</strong><br>
