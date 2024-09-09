@@ -24,11 +24,12 @@ title: Research
   </a>
 </div>
 
-
+<!--
 <p style="font-size: 125%;">
         <strong><a href="https://minjaekwen.github.io/research1">Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for
 Promoting Ammonia Synthesis under Mild Conditions</a> - Computational Study</strong>
 </p>
+-->
 
 <strong>Laboratory, Co-worker and Advisor</strong><br>
 &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim
