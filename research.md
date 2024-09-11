@@ -21,7 +21,7 @@ title: Research
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </p>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Published: <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Published, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
 
 <!--===========================================-->
 <p style="font-size: 150%;">
@@ -36,33 +36,54 @@ title: Research
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </p>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- : <a href="https://minjaekwen.github.io/research1">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: On-going, To be presented in a conference poster session (ISTCP 2024)
 
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 3. </strong>
 </p>
-<p style="font-size: 125%;">
-      <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
+
+<a href="https://minjaekwen.github.io/research3">
+  <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
 TPP using Density-Functional Theory</strong>
-</p>
+</a>
+<a href="https://minjaekwen.github.io/research3">
+  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+  </p>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Finished, Presented in a conference poster session, by Junsoo Lee (co-worker)
 
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 4. </strong>
 </p>
-<p style="font-size: 125%;">
-      <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
-</p>
+
+<a href="https://minjaekwen.github.io/research4">
+  <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
+</a>
+<a href="https://minjaekwen.github.io/research4">
+  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+  </p>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Finished
 
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 5. </strong>
 </p>
-<p style="font-size: 125%;">
-      <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
+
+<a href="https://minjaekwen.github.io/research5">
+  <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
 Salt</strong>
-</p>
+</a>
+<a href="https://minjaekwen.github.io/research5">
+  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+  </p>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Finished
 
 <!--
 <div style="max-width:30%; height:auto; border:2px solid black; float:left; margin-right:30px; margin-bottom:10px;">
