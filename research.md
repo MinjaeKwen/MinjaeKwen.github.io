@@ -38,16 +38,6 @@ title: Research
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- : <a href="https://minjaekwen.github.io/research1">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
 
-<strong>Laboratory, Co-worker and Advisor</strong><br>
-&nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim<br>
-&nbsp;&nbsp;&nbsp;(Experimental co-worker: Yaejun Baik et al., Pf. Minkee Choi)
-
-<strong>Introduction</strong><br>
-&nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
-
-<strong>Results and others</strong><br>
-&nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
-<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 3. </strong>
@@ -57,16 +47,6 @@ title: Research
 TPP using Density-Functional Theory</strong>
 </p>
 
-<strong>Laboratory, Co-worker and Advisor</strong><br>
-&nbsp;&nbsp;&nbsp;M-design Laboratory, Junsoo Lee, Woojung Seung, Pf. Hyungjun Kim
-
-<strong>Introduction</strong><br>
-&nbsp;&nbsp;&nbsp;Screening study to find the transition metal for efficient electrocatalyst of NORR, using DFT calculation
-
-<strong>Results and others</strong><br>
-&nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
-Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient Nitrogen Oxide Reduction through a Density-Functional Theory Study</a>
-<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 4. </strong>
@@ -75,13 +55,6 @@ Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unrav
       <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
 </p>
 
-<strong>Laboratory and Advisor</strong><br>
-&nbsp;&nbsp;&nbsp;Nanocatalyst Research Laboratory, Pf. Hyunjoon Song<br>
-
-<strong>Introduction</strong><br>
-&nbsp;&nbsp;&nbsp;Studied the synthetic methods of Au NPs, Ag nanorods, Cu MOFs, etc.<br>
-&nbsp;&nbsp;&nbsp;Applied the nanoparticles to electrocatalysts
-<br>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 5. </strong>
@@ -90,16 +63,6 @@ Poster presentation title: <a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Unrav
       <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
 Salt</strong>
 </p>
-
-<strong>Laboratory and Advisor</strong><br>
-&nbsp;&nbsp;&nbsp;Electrochemical Materials Design Laboratory, Pf. Hye Ryung Byon<br>
-
-<strong>Introduction</strong><br>
-&nbsp;&nbsp;&nbsp;Investigate the electrochemical potential window of the aqueous Li-ion battery with various Li salt
-
-<strong>Results and others</strong><br>
-&nbsp;&nbsp;&nbsp;Presentation in Lab meeting (<a href="">"MinjaeKwen_Research_EMDL.pdf"</a>)
-
 
 <!--
 <div style="max-width:30%; height:auto; border:2px solid black; float:left; margin-right:30px; margin-bottom:10px;">
