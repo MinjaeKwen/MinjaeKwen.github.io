@@ -5,9 +5,8 @@ title: Research2
 
 <p style="clear:left;">
   <strong>Laboratory, Co-worker and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim<br>
-  &nbsp;&nbsp;&nbsp;(Experimental co-worker: Yaejun Baik et al., Pf. Minkee Choi)
-
+  &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim<br>
+  
   <strong>Introduction</strong><br>
   &nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations
 
