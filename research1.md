@@ -4,8 +4,6 @@ title: Research1
 ---
 
 <p style="clear:left;">
-  <strong>Laboratory, Co-worker and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim<br>
 
   <strong>Introduction</strong><br>
   &nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation<br>
