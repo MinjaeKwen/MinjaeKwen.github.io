@@ -10,7 +10,7 @@ title: Research
 <!--===========================================-->
 
 <p style="font-size: 150%;">
-      <strong>Research 1.</strong>
+      <strong>Research 1. [Published]</strong>
 </p>
 
 <!--
@@ -29,27 +29,16 @@ title: Research
 
 <a href="https://minjaekwen.github.io/research1">
   <strong>Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
-
+</a>
+<a href="https://minjaekwen.github.io/research1">
   <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </p>
 </a>
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Published: <a href="https://minjaekwen.github.io/research1">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
 
 
-<p style="clear:left;">
-  <strong>Laboratory, Co-worker and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim<br>
 
-  <strong>Introduction</strong><br>
-  &nbsp;&nbsp;&nbsp;Investigate the separate storage of H<sup>+</sup>/e<sup>–</sup> pairs at the BaO–Ru interface that promotes ammonia synthesis, using DFT calculation<br>
-
-  <strong>Results and others</strong><br>
-  &nbsp;&nbsp;&nbsp;Published at <i>Journal of the American Chemical Society</i>, as a co-first author<br>
-  &nbsp;&nbsp;&nbsp;<a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a><br>
-</p>
 <!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 2. [On-going] </strong>
