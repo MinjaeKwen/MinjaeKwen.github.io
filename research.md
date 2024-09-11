@@ -10,7 +10,7 @@ title: Research
 <!--===========================================-->
 
 <p style="font-size: 150%;">
-      <strong>Research 1. [Published]</strong>
+      <strong>Research 1. </strong><i>[Published]</i>
 </p>
 
 <a href="https://minjaekwen.github.io/research1">
@@ -25,7 +25,7 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <br><strong>Research 2. [On-going] </strong>
+      <br><strong>Research 2. </strong>
 </p>
 
 <a href="https://minjaekwen.github.io/research2">
@@ -40,7 +40,7 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <br><strong>Research 3. </strong>
+      <br><strong>Research 3. </strong><i>[On-going]</i>
 </p>
 
 <a href="https://minjaekwen.github.io/research3">
