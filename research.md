@@ -16,11 +16,11 @@ title: Research
 <a href="https://minjaekwen.github.io/research1">
   <strong>Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
 </a>
-<a href="https://minjaekwen.github.io/research1">
-  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+  <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
-  </p>
-</a>
+  </a>
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Published, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
 
 <!--===========================================-->
@@ -31,11 +31,11 @@ title: Research
 <a href="https://minjaekwen.github.io/research2">
   <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
 </a>
-<a href="https://minjaekwen.github.io/research2">
-  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+  <a href="https://minjaekwen.github.io/research2">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
-  </p>
-</a>
+  </a>
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: On-going, To be presented in a conference poster session (ISTCP 2024)
 
 <!--===========================================-->
@@ -47,11 +47,11 @@ title: Research
   <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
 TPP using Density-Functional Theory</strong>
 </a>
-<a href="https://minjaekwen.github.io/research3">
-  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+  <a href="https://minjaekwen.github.io/research3">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
-  </p>
-</a>
+  </a>
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Finished, Presented in a conference poster session, by Junsoo Lee (co-worker)
 
 <!--===========================================-->
@@ -62,11 +62,11 @@ TPP using Density-Functional Theory</strong>
 <a href="https://minjaekwen.github.io/research4">
   <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
 </a>
-<a href="https://minjaekwen.github.io/research4">
-  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+  <a href="https://minjaekwen.github.io/research4">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
-  </p>
-</a>
+  </a>
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Finished
 
 <!--===========================================-->
@@ -78,11 +78,11 @@ TPP using Density-Functional Theory</strong>
   <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
 Salt</strong>
 </a>
-<a href="https://minjaekwen.github.io/research5">
-  <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+  <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
-  </p>
-</a>
+  </a>
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Status: Finished
 
 <!--
