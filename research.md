@@ -21,7 +21,7 @@ title: Research
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
-&nbsp;&nbsp;&nbsp;<strong>* Status: Published,</strong> <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+&nbsp;&nbsp;&nbsp;<strong>* Status: Published</strong>, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
 
 <!--===========================================-->
 <p style="font-size: 150%;">
@@ -36,7 +36,7 @@ title: Research
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
-&nbsp;&nbsp;&nbsp;<strong>* Status: On-going,</strong> To be presented in a conference poster session (ISTCP 2024)
+&nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a conference poster session (ISTCP 2024)
 
 <!--===========================================-->
 <p style="font-size: 150%;">
@@ -52,7 +52,7 @@ TPP using Density-Functional Theory</strong>
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
-&nbsp;&nbsp;&nbsp;<strong>* Status: Finished,</strong> Presented in a conference poster session, by Junsoo Lee (co-worker)
+&nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session, by Junsoo Lee (co-worker)
 
 <!--===========================================-->
 <p style="font-size: 150%;">
