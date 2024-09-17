@@ -2,8 +2,6 @@
 layout: page
 title: Research3
 ---
-<br>
-
 <p align="center" style="max-width:100%; height:auto;">
     <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
 </p>
