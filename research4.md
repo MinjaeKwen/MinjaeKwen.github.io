@@ -2,9 +2,8 @@
 layout: page
 title: Research4
 ---
-<br>
 
-<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<p align="center" style="max-width:100%; height:auto;">
     <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
 </p>
 
