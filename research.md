@@ -33,7 +33,7 @@ title: Research
 </a>
 <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research2">
-    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+    <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a conference poster session (ISTCP 2024)
@@ -49,7 +49,7 @@ TPP using Density-Functional Theory</strong>
 </a>
 <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research3">
-    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+    <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session, by Junsoo Lee (co-worker)
@@ -64,7 +64,7 @@ TPP using Density-Functional Theory</strong>
 </a>
 <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research4">
-    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+    <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
@@ -80,7 +80,7 @@ Salt</strong>
 </a>
 <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research5">
-    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+    <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
 </p>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
