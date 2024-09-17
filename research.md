@@ -3,8 +3,9 @@ layout: page
 title: Research
 ---
 
-<p class="message">
-  Attempt for better computational methods, without loss of <i>the spirit of chemistry</i>
+<p class="message" style="text-align: center;">
+  Attempt for better computational methods,<br>
+  without loss of <i>the spirit of chemistry</i>
 </p>
 
 <!--===========================================-->
