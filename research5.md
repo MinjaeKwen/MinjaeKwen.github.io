@@ -2,6 +2,7 @@
 layout: page
 title: Research5
 ---
+<br>
 
 <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
