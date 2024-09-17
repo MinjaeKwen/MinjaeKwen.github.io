@@ -3,6 +3,10 @@ layout: page
 title: Research4
 ---
 
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+    <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
+</p>
+
 <p style="clear:left;">
   
   <strong>Laboratory and Advisor</strong><br>
