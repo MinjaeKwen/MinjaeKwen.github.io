@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research1
+title: Research 1
 ---
 <p align="center" style="max-width:100%; height:auto;">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
