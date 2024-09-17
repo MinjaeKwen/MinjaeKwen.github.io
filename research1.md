@@ -3,6 +3,10 @@ layout: page
 title: Research1
 ---
 
+<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+    <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
+</p>
+
 <p style="clear:left;">
   <strong>Laboratory, Co-worker and Advisor</strong><br>
   &nbsp;&nbsp;&nbsp;M-design Laboratory, Pf. Hyungjun Kim<br>
