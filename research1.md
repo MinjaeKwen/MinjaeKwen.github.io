@@ -2,7 +2,7 @@
 layout: page
 title: Research1
 ---
-<br><br>
+<br>
 
 <p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
