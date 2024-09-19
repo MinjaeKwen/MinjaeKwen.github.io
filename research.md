@@ -17,7 +17,7 @@ title: Research
 <a href="https://minjaekwen.github.io/research1">
   <strong>Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions - Computational Study</strong>
 </a>
-<figure align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
@@ -35,7 +35,7 @@ title: Research
   <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
 </a>
 
-<figure align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research2">
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
@@ -52,7 +52,7 @@ title: Research
 TPP using Density-Functional Theory</strong>
 </a>
 
-<figure align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research3">
     <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
   </a>
@@ -70,11 +70,16 @@ TPP using Density-Functional Theory</strong>
   <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
 </a>
 
-<figure align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research4">
     <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%;">1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725 2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png 3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187 4) https://www.mdpi.com/2073-4344/10/5/473</figcaption>
+  <figcaption style="font-size:50%;">
+1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725 
+2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png 
+3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187 
+4) https://www.mdpi.com/2073-4344/10/5/473
+  </figcaption>
 </figure>
 
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
@@ -89,7 +94,7 @@ TPP using Density-Functional Theory</strong>
 Salt</strong>
 </a>
 <!--<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">-->
-<figure align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px;">
   <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
