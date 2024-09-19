@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/3224d12f-779d-4e01-a90f-534f272527f2)---
 layout: page
 title: Research
 ---
@@ -51,11 +51,14 @@ title: Research
   <strong>Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on
 TPP using Density-Functional Theory</strong>
 </a>
-<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+
+<figure>
   <a href="https://minjaekwen.github.io/research3">
     <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
   </a>
-</p>
+  <figcaption style="font-size:50%;">TBUpdated</figcaption>
+</figure>
+
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session, by Junsoo Lee (co-worker)
 
 <!--===========================================-->
@@ -66,11 +69,14 @@ TPP using Density-Functional Theory</strong>
 <a href="https://minjaekwen.github.io/research4">
   <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
 </a>
-<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+
+<figure>
   <a href="https://minjaekwen.github.io/research4">
     <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
   </a>
-</p>
+  <figcaption style="font-size:50%;">1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725 2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png 3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187 4) https://www.mdpi.com/2073-4344/10/5/473</figcaption>
+</figure>
+
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
 <!--===========================================-->
@@ -82,11 +88,13 @@ TPP using Density-Functional Theory</strong>
   <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
 Salt</strong>
 </a>
-<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+<!--<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">-->
+<figure>
   <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
-</p>
+  <figcaption sytle="font-size:50%;">1) Science 2015, 350, 938-943</figcaption>
+</figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
 <!--
