@@ -98,7 +98,7 @@ Salt</strong>
   <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption sytle="font-size:50%;">1) Science 2015, 350, 938-943</figcaption>
+  <figcaption style="font-size:50%;">1) Science 2015, 350, 938-943</figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
