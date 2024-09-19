@@ -21,10 +21,10 @@ title: Research
   <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%;">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</figcaption>
+  <figcaption style="font-size:50%;"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</figcaption>
 </figure>
   
-&nbsp;&nbsp;&nbsp;<strong>* Status: Published</strong>, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</a>
+&nbsp;&nbsp;&nbsp;<strong>* Status: Published</strong>, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</a>
 
 <!--===========================================-->
 <p style="font-size: 150%;">
@@ -75,10 +75,10 @@ TPP using Density-Functional Theory</strong>
     <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
   </a>
   <figcaption style="font-size:50%;">
-1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725, <br>
+1) <i>Mater. Res. Bull.</i> 79 (2016): 97-104., <br>
 2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png, <br> 
-3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187, <br>
-4) https://www.mdpi.com/2073-4344/10/5/473
+3) <i>Adv. Sci.</i> 10.9 (2023): 2207187., <br>
+4) <i>Catalysts</i> 10.5 (2020): 473.
   </figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Salt</strong>
   <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%;">1) Science 2015, 350, 938-943</figcaption>
+  <figcaption style="font-size:50%;">1) <i>Science</i> 2015, 350, 938-943</figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
