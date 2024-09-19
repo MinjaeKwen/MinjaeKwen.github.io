@@ -2,9 +2,10 @@
 layout: page
 title: Research 1
 ---
-<p align="center" style="max-width:100%; height:auto;">
+<figure align="center" style="max-width:100%; height:auto; margin-left:-10px; margin-right:-10px;">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
-</p>
+    <figcaption style="font-size:50%;">J. Am. Chem. Soc. 2023, 145, 20, 11364–11374</figcaption>
+</figure>
 
 <p style="clear:left;">
     <strong>Title</strong><br>
