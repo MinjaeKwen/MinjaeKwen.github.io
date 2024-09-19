@@ -75,10 +75,7 @@ TPP using Density-Functional Theory</strong>
     <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
   </a>
   <figcaption style="font-size:50%;">
-1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725 
-2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png 
-3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187 
-4) https://www.mdpi.com/2073-4344/10/5/473
+1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725, 2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png, 3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187, 4) https://www.mdpi.com/2073-4344/10/5/473
   </figcaption>
 </figure>
 
