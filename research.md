@@ -23,7 +23,7 @@ title: Research
   </a>
   <figcaption style="font-size:50%; margin-left:20px; "><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</figcaption>
 </figure>
-  
+<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Published</strong>, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</a>
 
 <!--===========================================-->
@@ -40,6 +40,7 @@ title: Research
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
 </figure>
+<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a conference poster session (ISTCP 2024)
 
 <!--===========================================-->
@@ -58,7 +59,7 @@ TPP using Density-Functional Theory</strong>
   </a>
   <figcaption style="font-size:50%; margin-left:20px;">TBUpdated</figcaption>
 </figure>
-
+<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session, by Junsoo Lee (co-worker)
 
 <!--===========================================-->
@@ -81,7 +82,7 @@ TPP using Density-Functional Theory</strong>
 4) <i>Catalysts</i> 10.5 (2020): 473.
   </figcaption>
 </figure>
-
+<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
 <!--===========================================-->
@@ -100,6 +101,7 @@ Salt</strong>
   </a>
   <figcaption style="font-size:50%; margin-left:20px;">1) <i>Science</i> 2015, 350, 938-943</figcaption>
 </figure>
+<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
 <!--
