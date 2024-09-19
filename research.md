@@ -34,11 +34,12 @@ title: Research
 <a href="https://minjaekwen.github.io/research2">
   <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
 </a>
-<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">
+
+<figure>
   <a href="https://minjaekwen.github.io/research2">
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
-</p>
+</figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a conference poster session (ISTCP 2024)
 
 <!--===========================================-->
