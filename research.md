@@ -21,9 +21,8 @@ title: Research
   <a href="https://minjaekwen.github.io/research1">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%; margin-left:20px; "><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</figcaption>
+  <figcaption style="font-size:50%; margin-left:20px; "><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374<br><br></figcaption>
 </figure>
-<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Published</strong>, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</a>
 
 <!--===========================================-->
@@ -40,7 +39,6 @@ title: Research
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
 </figure>
-<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a conference poster session (ISTCP 2024)
 
 <!--===========================================-->
@@ -57,9 +55,8 @@ TPP using Density-Functional Theory</strong>
   <a href="https://minjaekwen.github.io/research3">
     <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%; margin-left:20px;">TBUpdated</figcaption>
+  <figcaption style="font-size:50%; margin-left:20px;">TBUpdated<br><br></figcaption>
 </figure>
-<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session, by Junsoo Lee (co-worker)
 
 <!--===========================================-->
@@ -79,10 +76,9 @@ TPP using Density-Functional Theory</strong>
 1) <i>Mater. Res. Bull.</i> 79 (2016): 97-104., <br>
 2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png, <br> 
 3) <i>Adv. Sci.</i> 10.9 (2023): 2207187., <br>
-4) <i>Catalysts</i> 10.5 (2020): 473.
+4) <i>Catalysts</i> 10.5 (2020): 473.<br><br>
   </figcaption>
 </figure>
-<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
 <!--===========================================-->
@@ -99,9 +95,8 @@ Salt</strong>
   <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%; margin-left:20px;">1) <i>Science</i> 2015, 350, 938-943</figcaption>
+  <figcaption style="font-size:50%; margin-left:20px;">1) <i>Science</i> 2015, 350, 938-943<br><br></figcaption>
 </figure>
-<br>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
 <!--
