@@ -35,7 +35,7 @@ title: Research
   <strong>Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide</strong>
 </a>
 
-<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-10px; margin-right:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-15px; margin-right:-15px;">
   <a href="https://minjaekwen.github.io/research2">
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
@@ -52,7 +52,7 @@ title: Research
 TPP using Density-Functional Theory</strong>
 </a>
 
-<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-10px; margin-right:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-15px; margin-right:-15px;">
   <a href="https://minjaekwen.github.io/research3">
     <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
   </a>
@@ -70,12 +70,15 @@ TPP using Density-Functional Theory</strong>
   <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
 </a>
 
-<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-10px; margin-right:-10px;">
+<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-15px; margin-right:-15px;">
   <a href="https://minjaekwen.github.io/research4">
     <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
   </a>
   <figcaption style="font-size:50%;">
-1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725, 2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png, 3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187, 4) https://www.mdpi.com/2073-4344/10/5/473
+1) https://www.sciencedirect.com/science/article/abs/pii/S0025540815302725, <br>
+2) https://commons.wikimedia.org/wiki/File:Transmission_electron_microscopy_%28TEM%29.png, <br> 
+3) https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202207187, <br>
+4) https://www.mdpi.com/2073-4344/10/5/473
   </figcaption>
 </figure>
 
@@ -90,8 +93,8 @@ TPP using Density-Functional Theory</strong>
   <strong>Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li
 Salt</strong>
 </a>
-<!--<p align="center" style="max-width:100%; height:auto; margin-top:-10px;">-->
-<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-10px; margin-right:-10px;">
+
+<figure style="max-width:100%; height:auto; margin-top:-10px; margin-left:-15px; margin-right:-15px;">
   <a href="https://minjaekwen.github.io/research5">
     <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
   </a>
