@@ -57,7 +57,7 @@ TPP using Density-Functional Theory</strong>
   </a>
   <figcaption style="font-size:50%; margin-left:20px;">TBUpdated<br><br></figcaption>
 </figure>
-&nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session, by Junsoo Lee (co-worker)
+&nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session by the co-worker, Junsoo Lee
 
 <!--===========================================-->
 <p style="font-size: 150%;">
