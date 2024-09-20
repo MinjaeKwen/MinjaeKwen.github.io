@@ -8,15 +8,16 @@ title: Research5
 </p>
 
 <p style="clear:left;">
-  <strong>Title</strong><br>
-  &nbsp;&nbsp;&nbsp;Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li Salt<br>
-  <br>
-  <strong>Laboratory and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;Electrochemical Materials Design Laboratory, Pf. Hye Ryung Byon<br>
-  <br>
-  <strong>Introduction</strong><br>
-  &nbsp;&nbsp;&nbsp;Investigate the electrochemical potential window of the aqueous Li-ion battery with various Li salt<br>
-  <br>
-  <strong>Results and others</strong><br>
-  &nbsp;&nbsp;&nbsp;Presentation in Lab meeting (<a href="">"MinjaeKwen_Research_EMDL.pdf"</a>)
+    <strong>Title</strong><br>
+    &nbsp;&nbsp;&nbsp;Electrochemical Potential Window of Molecular Crowded Electrolyte with Various Li Salt<br>
+    <br>
+    <strong>Results</strong><br>
+    &nbsp;&nbsp;&nbsp;Presentation in Lab meeting (<a href="">"MinjaeKwen_Research5_EMDL.pdf"</a>)
+    <br>
+    <strong>Laboratory and Advisor</strong><br>
+    &nbsp;&nbsp;&nbsp;<a href="https://www.emdl.kaist.ac.kr/">Electrochemical Materials Design Laboratory</a>, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/22">Pf. Hye Ryung Byon</a><br>
+    <br>
+    <strong>Introduction</strong><br>
+    &nbsp;&nbsp;&nbsp;Investigate the electrochemical potential window of the aqueous Li-ion battery with various Li salt<br>
+    <br>
 </p>
