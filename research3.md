@@ -11,8 +11,8 @@ title: Research3
     &nbsp;&nbsp;&nbsp;Screening Pathways for Nitrogen Monoxide Electroreduction on Transition Metal on TPP using Density-Functional Theory<br>
     <br>
     <strong>Results</strong><br>
-    &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, delivered by Junsoo Lee<br>
-    Poster presentation title: <a href="/files/">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient  Nitrogen Oxide Reduction through a Density-Functional Theory Study</a>
+    &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, <i>delivered by Junsoo Lee</i><br>
+    Poster presentation title: <a href="/files/">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient  Nitrogen Oxide Reduction through a Density-Functional Theory Study</a><br>
     <br>
     <strong>Laboratory, Co-worker and Advisor</strong><br>
     &nbsp;&nbsp;&nbsp;<a href="https://www.m-design-lab.net/">M-design Laboratory</a>, Junsoo Lee, Woojung Seung, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Pf. Hyungjun Kim</a><br>
