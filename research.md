@@ -8,9 +8,9 @@ title: Research
   with <strong><i>the spirit of chemistry</i></strong>
 </p>
 
-<p style="font-size: 75%;">
-      Please Click the <span style="color:rgb(88, 124, 173)">blue titles</span> of thumbnails for detailed information!!
-</p
+<p style="font-size: 100%;">
+      Please Click the <strong><span style="color:rgb(88, 124, 173)">blue titles</span></strong> of thumbnails for detailed information!!
+</p>
 
 <!--===========================================-->
 
