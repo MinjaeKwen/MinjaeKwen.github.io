@@ -8,9 +8,8 @@ title: Research4
 </p>
 
 <p style="clear:left;">
-  
   <strong>Laboratory and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;Nanocatalyst Research Laboratory, Pf. Hyunjoon Song<br>
+  &nbsp;&nbsp;&nbsp;<a href="https://small.kaist.ac.kr/">Nanocatalyst Research Laboratory</a>, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/24">Pf. Hyunjoon Song</a><br>
   <br>
   <strong>Introduction</strong><br>
   &nbsp;&nbsp;&nbsp;Studied the synthetic methods of Au NPs, Ag nanorods, Cu MOFs, etc.<br>
