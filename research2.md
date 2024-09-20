@@ -7,16 +7,17 @@ title: Research2
 </p>
 
 <p style="clear:left;">
-  <strong>Title</strong><br>
-  &nbsp;&nbsp;&nbsp;Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide<br>
-  <br>
-  <strong>Laboratory, Co-worker and Advisor</strong><br>
-  &nbsp;&nbsp;&nbsp;M-design Laboratory, Yoosang Son, Pf. Hyungjun Kim<br>
-  <br>
-  <strong>Introduction</strong><br>
-  &nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations<br>
-  <br>
-  <strong>Results and others</strong><br>
-  &nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
-  <br>
+    <strong>Title</strong><br>
+    &nbsp;&nbsp;&nbsp;Time-domain ab initio analysis of facet-dependent carrier dynamics in Cuprous oxide<br>
+    <br>
+    <strong>Status</strong><br>
+    &nbsp;&nbsp;&nbsp;Ongoing
+    &nbsp;&nbsp;&nbsp;To be presented in poster session of ISTCP 2024 (<a href="/files/Minjae_Kwen_Abstract_ISTCP.pdf">Abstract</a>)
+    <br>
+    <strong>Laboratory, Co-worker and Advisor</strong><br>
+    &nbsp;&nbsp;&nbsp;<a href="https://www.m-design-lab.net/">M-design Laboratory</a>, Yoosang Son, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Pf. Hyungjun Kim</a><br>
+    <br>
+    <strong>Introduction</strong><br>
+    &nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations<br>
+    <br>
 </p>
