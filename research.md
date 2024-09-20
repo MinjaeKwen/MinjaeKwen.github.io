@@ -31,7 +31,7 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <br><strong>Research 2. </strong>
+      <br><strong>Research 2. </strong><i>[On-going]</i>
 </p>
 
 <a href="https://minjaekwen.github.io/research2">
@@ -47,7 +47,7 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <br><strong>Research 3. </strong><i>[On-going]</i>
+      <br><strong>Research 3. </strong>
 </p>
 
 <a href="https://minjaekwen.github.io/research3">
