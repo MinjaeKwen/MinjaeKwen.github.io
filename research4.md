@@ -13,6 +13,10 @@ title: Research4
     <br>
   <strong>Laboratory and Advisor</strong><br>
   &nbsp;&nbsp;&nbsp;<a href="https://small.kaist.ac.kr/">Nanocatalyst Research Laboratory</a>, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/24">Pf. Hyunjoon Song</a><br>
+    <br>
+    <strong>Duration</strong><br>
+    &nbsp;&nbsp;&nbsp;Apr. 2021 – Aug. 2024<br>
+    <br>
   <br>
   <strong>Introduction</strong><br>
   &nbsp;&nbsp;&nbsp;Studied the synthetic methods of Au NPs, Ag nanorods, Cu MOFs, etc.<br>
