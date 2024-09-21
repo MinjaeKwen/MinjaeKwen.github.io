@@ -18,7 +18,6 @@ title: Research2
     <strong>Duration</strong><br>
     &nbsp;&nbsp;&nbsp;Mar. 2024 – Present<br>
     <br>
-    <br>
     <strong>Introduction</strong><br>
     &nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations<br>
     <br>
