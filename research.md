@@ -9,7 +9,7 @@ title: Research
 </p>
 
 <p style="font-size: 100%;">
-      Please Click the <strong><span style="color:rgb(88, 124, 173)">blue titles</span></strong> of thumbnails for detailed information!!
+      Please Click the <strong><span style="color:rgb(88, 124, 173)">blue titles</span></strong> or thumbnails for detailed information!!
 </p>
 
 <!--===========================================-->
