@@ -17,7 +17,6 @@ title: Research4
     <strong>Duration</strong><br>
     &nbsp;&nbsp;&nbsp;Apr. 2021 – Aug. 2024<br>
     <br>
-  <br>
   <strong>Introduction</strong><br>
   &nbsp;&nbsp;&nbsp;Studied the synthetic methods of Au NPs, Ag nanorods, Cu MOFs, etc.<br>
   &nbsp;&nbsp;&nbsp;Applied the nanoparticles to electrocatalysts
