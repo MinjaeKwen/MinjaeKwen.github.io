@@ -18,7 +18,7 @@ title: Research3
     &nbsp;&nbsp;&nbsp;<a href="https://www.m-design-lab.net/">M-design Laboratory</a>, Junsoo Lee, Woojung Seung, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Pf. Hyungjun Kim</a><br>
     <br>
     <strong>Duration</strong><br>
-    &nbsp;&nbsp;&nbsp;Dec. 2021 – May. 2024<br>
+    &nbsp;&nbsp;&nbsp;Nov. 2021 – May. 2024<br>
     <br>
     <strong>Introduction</strong><br>
     &nbsp;&nbsp;&nbsp;Screening study to find the transition metal for efficient electrocatalyst of NORR, using DFT calculation<br>
