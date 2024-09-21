@@ -3,6 +3,7 @@ layout: page
 title: About Me
 ---
 
+<!-- Research intro. & about me acad.+confer.+skill-->
 <img src="/images/AboutMe.png" style="max-width: 100%; height: auto;" />
 
 <p style="font-size: 150%;">
