@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-
+<!-- Research intro. & about me acad.+confer.+skill-->
 <p class="message" style="text-align: center; font-size: 125%;">
   Attempt for better computational methods,<br>
   with <strong><i>the spirit of chemistry</i></strong>
