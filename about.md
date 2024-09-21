@@ -22,6 +22,12 @@ My research interest is primarily in <strong>computational chemistry</strong> wi
 In addition, I have experience in nanocatalyst synthesis and electrochemical system design. For more details about my research, please visit the <strong><a href="https://minjaekwen.github.io/research/">"research"</a></strong> section of this website.
 
 <p style="font-size: 150%;">
+      <strong>Skills</strong>
+</p>
+
+(To be updated)
+
+<p style="font-size: 150%;">
       <strong>Other Experiences</strong>
 </p>
 
