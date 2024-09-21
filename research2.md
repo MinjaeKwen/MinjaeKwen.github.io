@@ -15,6 +15,9 @@ title: Research2
     <br>
     <strong>Laboratory, Co-worker and Advisor</strong><br>
     &nbsp;&nbsp;&nbsp;<a href="https://www.m-design-lab.net/">M-design Laboratory</a>, Yoosang Son, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Pf. Hyungjun Kim</a><br>
+    <strong>Duration</strong><br>
+    &nbsp;&nbsp;&nbsp;Mar. 2024 – Present<br>
+    <br>
     <br>
     <strong>Introduction</strong><br>
     &nbsp;&nbsp;&nbsp;Investigate facet-dependent charge carrier dynamics in Cu<sub>2</sub>O using semiclassical nonadiabatic dynamics simulations<br>
