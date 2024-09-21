@@ -20,7 +20,6 @@ title: Research5
     <strong>Duration</strong><br>
     &nbsp;&nbsp;&nbsp;Dec. 2020 – Feb. 2021<br>
     <br>
-    <br>
     <strong>Introduction</strong><br>
     &nbsp;&nbsp;&nbsp;Investigate the electrochemical potential window of the aqueous Li-ion battery with various Li salt<br>
     <br>
