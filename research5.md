@@ -17,6 +17,10 @@ title: Research5
     <strong>Laboratory and Advisor</strong><br>
     &nbsp;&nbsp;&nbsp;<a href="https://www.emdl.kaist.ac.kr/">Electrochemical Materials Design Laboratory</a>, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/22">Pf. Hye Ryung Byon</a><br>
     <br>
+    <strong>Duration</strong><br>
+    &nbsp;&nbsp;&nbsp;Dec. 2020 – Feb. 2021<br>
+    <br>
+    <br>
     <strong>Introduction</strong><br>
     &nbsp;&nbsp;&nbsp;Investigate the electrochemical potential window of the aqueous Li-ion battery with various Li salt<br>
     <br>
