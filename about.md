@@ -10,7 +10,7 @@ title: About Me
       <strong>I am <a href="/files/MinjaeKwen_CV.pdf">Minjae Kwen</a>.</strong>
 </p>
 
-I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>, actively engaged in research at the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. 
+I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>, actively conducting research in the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. 
 
 <p style="font-size: 150%;">
       <a href="https://minjaekwen.github.io/research/">
