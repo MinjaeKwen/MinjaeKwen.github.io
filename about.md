@@ -26,13 +26,16 @@ In addition, I have experience in nanocatalyst synthesis and electrochemical sys
       <strong>Academic Experiences</strong>
 </p>
 
-(To be updated)
+At KAIST, I major in <strong>Chemistry</strong> and minor in <strong>Material Science</strong>. 
+I additionally took courses in the Physics and Computer Science departments which improved my academic skills.
+My total GPA is 4.18/4.3 for seven semesters.
 
-<p style="font-size: 150%;">
-      <strong>Skills</strong>
-</p>
+Also, I've actively participated in academic conferences. Here are the lists of the conferences I attended.
+* 2024 Korea-Japan Symposium on Molecular Science, Busan, Republic of Korea
+* NANO KOREA 2024, Goyang-si, Republic of Korea
+* ISTCP 2024, Qingdao, China (<i>Planned</i>)
 
-(To be updated)
+I am familiar with the Linux environment for program development. Python, C++, and Shell script are my primary languages. I also experienced various languages or systems, such as JAVA, HTML, etc.
 
 <p style="font-size: 150%;">
       <strong>Other Experiences</strong>
