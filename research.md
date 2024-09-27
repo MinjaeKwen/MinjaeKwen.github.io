@@ -59,7 +59,7 @@ TPP using Density-Functional Theory</strong>
   <a href="https://minjaekwen.github.io/research3">
     <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
   </a>
-  <figcaption style="font-size:50%; margin-left:20px;">TBUpdated<br><br></figcaption>
+  <figcaption style="font-size:50%; margin-left:20px;"><br><br></figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Presented in a conference poster session by the co-worker, Junsoo Lee
 
