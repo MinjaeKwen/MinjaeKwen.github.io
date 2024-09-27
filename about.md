@@ -10,7 +10,7 @@ title: About Me
       <strong>I am <a href="/files/MinjaeKwen_CV.pdf">Minjae Kwen</a>.</strong>
 </p>
 
-I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>. As an undergraduate researcher, I actively participated in the research at the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Pf. Hyungjun Kim</a>. 
+I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>, actively engaged in research at the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. 
 
 <p style="font-size: 150%;">
       <a href="https://minjaekwen.github.io/research/">
@@ -18,9 +18,9 @@ I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chem
       </a>
 </p>
 
-My research interest is primarily in <strong>computational chemistry</strong> with a focus on <i>ab-initio</i> quantum calculations, particularly <strong>Density Functional Theory(DFT)</strong>. I have studied catalytic systems and explored the mechanisms to improve catalytic efficiency. Currently, I am working on <strong>nonadiabatic dynamics simulations</strong>, including surface hopping, to better understand photon-related reactions and carrier dynamics. 
+My primary research interest lies in <strong>computational chemistry</strong> focusing on <i>ab initio</i> quantum calculations, especially <strong>Density Functional Theory (DFT)</strong>. I have investigated catalytic systems, analyzing reaction mechanisms to enhance catalytic efficiency. I am currently conducting nonadiabatic dynamics simulations, including surface hopping techniques, to gain deeper insights into photon-induced reactions and carrier dynamics.
 
-In addition, I have experience in nanocatalyst synthesis and electrochemical system design. For more details about my research, please visit the <strong><a href="https://minjaekwen.github.io/research/">"research"</a></strong> section of this website.
+Additionally, I have hands-on experience in nanocatalyst synthesis and electrochemical system design. For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
 
 <p style="font-size: 150%;">
       <strong>Academic Experiences</strong>
