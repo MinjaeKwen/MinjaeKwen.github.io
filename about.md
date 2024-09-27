@@ -21,7 +21,7 @@ I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chem
 <p style="text-align: justify;">
 My primary research interest lies in <strong>computational chemistry</strong> focusing on <i>ab initio</i> quantum calculations, especially <strong>Density Functional Theory (DFT)</strong>. I have investigated catalytic systems, analyzing reaction mechanisms to enhance catalytic efficiency. I am currently conducting nonadiabatic dynamics simulations, including surface hopping techniques, to gain deeper insights into photon-induced reactions and carrier dynamics.
 <br><br>
-Additionally, I have hands-on experience in nanocatalyst synthesis and electrochemical system design. For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
+Additionally, I have hands-on experience in nanocatalyst synthesis and electro-chemical system design. For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
 </p>
 
 <p style="font-size: 150%;">
