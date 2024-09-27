@@ -5,7 +5,7 @@ title: Research
 <!-- Research intro. & about me acad.+confer.+skill-->
 <p class="message" style="text-align: center; font-size: 125%;">
   Attempt for better computational methods,<br>
-  with <strong><i>the spirit of chemistry</i></strong>
+  illuminate the <strong><i>insight of chemistry</i></strong>
 </p>
 
 <p style="font-size: 100%;">
