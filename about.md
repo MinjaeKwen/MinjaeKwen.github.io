@@ -28,6 +28,7 @@ Additionally, I have hands-on experience in nanocatalyst synthesis and electroch
       <strong>Academic Experiences</strong>
 </p>
 
+<p style="text-align: justify;">
 At KAIST, I major in <strong>Chemistry</strong> with a minor in <strong>Material Science</strong>. 
 I have also taken additional courses in the Physics and Computer Science departments, which have improved my interdisciplinary skills. 
 My cumulative GPA is <strong>4.18/4.3</strong> over seven semesters.
@@ -39,19 +40,20 @@ I have actively participated in several academic conferences, expanding my knowl
 
 In terms of technical skills, I am proficient in the Linux environment for program development. 
 My primary programming languages include Python, C++, and Shell script, with additional experience in other languages such as JAVA and HTML.
+</p>
 
 <p style="font-size: 150%;">
       <strong>Other Experiences</strong>
 </p>
 
+<p style="text-align: justify;">
 For my alternative military service, I worked at <a href="https://dangaram-k.goegh.kr/dangaram-k/main.do">Dangaram Kindergarten</a> from May 2022 to February 2024. I cared for children with developmental disabilities and mental disorders. I received a <a href="/files/Certificate_of_Commendation.pdf"><strong>Certificate of Commendation</strong></a> for my dedicated social service. This experience helped me develop resilience and a positive approach to challenges.
 
 I have been consistently involved in <a href="/files/Certificate_of_Volunteer(Feb2019-Feb2024).pdf"><strong>volunteer work</strong></a> since middle school. 
 I have consistently volunteered over 30 hours each year during my time at university.
 
 I am passionate about sports, particularly baseball. I was a member of the <a href="https://www.instagram.com/kaistrookiesbb.1986/"><strong>KAIST baseball club "Rookie"</strong></a> for two years.
-
-
+</p>
 
 <p style="font-size: 150%;">
       <strong>Curriculum Vitae</strong>
