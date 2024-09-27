@@ -33,6 +33,9 @@ At KAIST, I major in <strong>Chemistry</strong> with a minor in <strong>Material
 I have also taken additional courses in the Physics and Computer Science departments, which have improved my interdisciplinary skills. 
 My cumulative GPA is <strong>4.18/4.3</strong> over seven semesters.
 
+For my overseas experiences, I visited <strong>UC Berkeley Summer Session</strong> in 2019.
+In 2020, I also visited <strong>IIT Madras, Chennai, India</strong> to exchange creative ideas with IITM students.
+
 I have actively participated in several academic conferences, expanding my knowledge and networks in the field:
 * 2024 Korea-Japan Symposium on Molecular Science, Busan, Republic of Korea
 * NANO KOREA 2024, Goyang-si, Republic of Korea
