@@ -41,7 +41,7 @@ I have actively participated in several academic conferences, expanding my knowl
 * 2024 Korea-Japan Symposium on Molecular Science, Busan, Republic of Korea
 * NANO KOREA 2024, Goyang-si, Republic of Korea
 * ISTCP 2024, Qingdao, China (<i>Planned</i>)
-
+<br>
 <p style="text-align: justify;">
 In terms of technical skills, I am proficient in the Linux environment for program development. 
 My primary programming languages include Python, C++, and Shell script, with additional experience in other languages such as JAVA and HTML.
