@@ -43,7 +43,7 @@ title: Research
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
   </a>
 </figure>
-&nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a conference poster session (ISTCP 2024)
+&nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, To be presented in a poster session of ISTCP 2024(<a href="/files/MinjaeKwen_Poster_ISTCP2024.pdf">Poster File</a>)
 
 <!--===========================================-->
 <p style="font-size: 150%;">
