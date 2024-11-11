@@ -40,7 +40,7 @@ In 2020, I also visited <strong>IIT Madras, Chennai, India</strong> to exchange 
 I have actively participated in several academic conferences, expanding my knowledge and networks in the field:
 * 2024 Korea-Japan Symposium on Molecular Science, Busan, Republic of Korea
 * NANO KOREA 2024, Goyang-si, Republic of Korea
-* ISTCP 2024, Qingdao, China (<i>Planned</i>)
+* ISTCP 2024, Qingdao, China
 <br>
 <p style="text-align: justify;">
 In terms of technical skills, I am proficient in the Linux environment for program development. 
