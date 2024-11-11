@@ -47,7 +47,7 @@ title: Research
 
 <!--===========================================-->
 <p style="font-size: 150%;">
-      <br><strong>Research 3. </strong>
+      <br><strong>Research 3. </strong><i>[On-going*]</i>
 </p>
 
 <a href="https://minjaekwen.github.io/research3">
@@ -61,7 +61,7 @@ TPP using Density-Functional Theory</strong>
   </a>
   <figcaption style="font-size:50%; margin-left:20px;"><br><br></figcaption>
 </figure>
-&nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Follow-up study performed by the co-worker(Junsoo Lee) will be published
+&nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Follow-up study performed by the co-worker(Junsoo Lee) will be published*
 
 <!--===========================================-->
 <p style="font-size: 150%;">
