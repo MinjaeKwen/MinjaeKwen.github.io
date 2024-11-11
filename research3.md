@@ -12,7 +12,7 @@ title: Research3
     <br>
     <strong>Results</strong><br>
     &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, <i>delivered by Junsoo Lee</i><br>
-    Poster presentation title: <a href="/files/">Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient  Nitrogen Oxide Reduction through a Density-Functional Theory Study</a><br>
+    Poster presentation title: Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient  Nitrogen Oxide Reduction through a Density-Functional Theory Study<br>
     <br>
     The follow-up study is ongoing by Junsoo Lee, and prepared to be published.
     <br>
