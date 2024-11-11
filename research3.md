@@ -13,7 +13,8 @@ title: Research3
     <strong>Results</strong><br>
     &nbsp;&nbsp;&nbsp;Poster presentation in Winter Symposium for Computational Material Science 2024, <i>delivered by Junsoo Lee</i><br>
     Poster presentation title: Unraveling the Role of Iron in Transition Metal-N-C Catalyst for the Efficient  Nitrogen Oxide Reduction through a Density-Functional Theory Study<br>
-    The follow-up study is ongoing by Junsoo Lee, and prepared to be published.<br>
+    <br>
+    &nbsp;&nbsp;&nbsp;The follow-up study is <i>ongoing by Junsoo Lee</i>, and prepared to be published.<br>
     <br>
     <strong>Laboratory, Co-worker and Advisor</strong><br>
     &nbsp;&nbsp;&nbsp;<a href="https://www.m-design-lab.net/">M-design Laboratory</a>, Junsoo Lee, Woojung Seung, <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Pf. Hyungjun Kim</a><br>
