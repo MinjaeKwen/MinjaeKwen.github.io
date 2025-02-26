@@ -31,7 +31,7 @@ Additionally, I have hands-on experience in nanocatalyst synthesis and electro-c
 <p style="text-align: justify;">
 At KAIST, I got a B.S. in <strong>Chemistry</strong> with a minor in <strong>Material Science</strong>. 
 I have also taken additional courses in the Physics and Computer Science departments, which have improved my interdisciplinary skills. 
-I graduated in Feb. 2025 with <i>Summa Cum Laude</i> (Valedictorian).
+I graduated in Feb. 2025 with <i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian).
 <br><br>
 For my overseas experiences, I visited <strong>UC Berkeley Summer Session</strong> in 2019.
 In 2020, I also visited <strong>IIT Madras, Chennai, India</strong> to exchange creative ideas with IITM students.
