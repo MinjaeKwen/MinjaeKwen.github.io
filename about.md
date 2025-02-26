@@ -10,7 +10,7 @@ title: About Me
       <strong>I am <a href="/files/MinjaeKwen_CV.pdf">Minjae Kwen</a>.</strong>
 </p>
 
-I am an undergraduate student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>, actively conducting research in the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. 
+I am a student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>, actively conducting research in the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. 
 
 <p style="font-size: 150%;">
       <a href="https://minjaekwen.github.io/research/">
@@ -29,9 +29,9 @@ Additionally, I have hands-on experience in nanocatalyst synthesis and electro-c
 </p>
 
 <p style="text-align: justify;">
-At KAIST, I major in <strong>Chemistry</strong> with a minor in <strong>Material Science</strong>. 
+At KAIST, I got a B.S. in <strong>Chemistry</strong> with a minor in <strong>Material Science</strong>. 
 I have also taken additional courses in the Physics and Computer Science departments, which have improved my interdisciplinary skills. 
-My cumulative GPA is <strong>4.18/4.3</strong> over seven semesters.
+I graduated in Feb. 2025 with <i>Summa Cum Laude</i> (Valedictorian).
 <br><br>
 For my overseas experiences, I visited <strong>UC Berkeley Summer Session</strong> in 2019.
 In 2020, I also visited <strong>IIT Madras, Chennai, India</strong> to exchange creative ideas with IITM students.
@@ -55,7 +55,7 @@ My primary programming languages include Python, C++, and Shell script, with add
 For my alternative military service, I worked at <a href="https://dangaram-k.goegh.kr/dangaram-k/main.do">Dangaram Kindergarten</a> from May 2022 to February 2024. I cared for children with developmental disabilities and mental disorders. I received a <a href="/files/Certificate_of_Commendation.pdf"><strong>Certificate of Commendation</strong></a> for my dedicated social service. This experience helped me develop resilience and a positive approach to challenges.
 <br><br>
 I have been consistently involved in <a href="/files/Certificate_of_Volunteer(Feb2019-Feb2024).pdf"><strong>volunteer work</strong></a> since middle school. 
-I have consistently volunteered over 30 hours each year during my time at university.
+I have volunteered over 90 hours during my time at university.
 <br><br>
 I am passionate about sports, particularly baseball. I was a member of the <a href="https://www.instagram.com/kaistrookiesbb.1986/"><strong>KAIST baseball club "Rookie"</strong></a> for two years.
 </p>
