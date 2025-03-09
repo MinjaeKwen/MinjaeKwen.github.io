@@ -1,0 +1,28 @@
+.post {
+  display: flex;           // 글 하나(article)를 수평 배치
+  align-items: flex-start; // 썸네일과 텍스트의 상단 정렬
+  margin-bottom: 2rem;     // 글 사이 간격 예시
+
+  .post-thumbnail {
+    margin-right: 1rem;    // 썸네일과 글 사이 간격
+
+    img {
+      width: 120px;        // 썸네일 가로 크기 (원하는 크기로 조절)
+      height: auto;        // 비율 유지
+      border-radius: 5px;  // 모서리를 둥글게(선택사항)
+      object-fit: cover;   // 이미지가 영역보다 클 때 잘라낼지 등(필요 시)
+    }
+  }
+
+  .post-info {
+    .post-title {
+      font-size: 1.5rem;   // 예시
+      margin: 0 0 0.5rem;  // 예시
+    }
+    .post-date {
+      color: #999;
+      font-size: 0.875rem;
+      margin-bottom: 1rem; // 예시
+    }
+  }
+}
