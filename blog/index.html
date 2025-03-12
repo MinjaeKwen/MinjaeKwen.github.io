@@ -39,7 +39,9 @@ title: Blog
     </span>
   {% endif %}
 
-  <!-- <a class="pagination-item" href="#">archive</a> -->
+  <a class="pagination-item" href="{{ admin | prepend: site.baseurl }}">
+    <span class="pagination-text">Upload Posts</span>
+  </a>
 
   {% if paginator.previous_page %}
     <a class="pagination-item" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
