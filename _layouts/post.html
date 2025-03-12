@@ -17,6 +17,12 @@ layout: default
     {% endif %}
   </div>
 
+  <div class="navigation-list">
+    <a class="list-post" href="{{ site.baseurl }}/blog/">
+      <span class="navigation-text">Back to List</span> 
+    </a>
+  </div>
+
   <div class="navigation-right">
     {% if page.next %}
       <a class="next-post" href="{{ page.next.url | prepend: site.baseurl }}">
@@ -52,6 +58,12 @@ layout: default
         <span class="navigation-text">previous post</span>
       </span>
     {% endif %}
+  </div>
+
+  <div class="navigation-list">
+    <a class="list-post" href="{{ site.baseurl }}/blog/">
+      <span class="navigation-text">Back to List</span> 
+    </a>
   </div>
 
   <div class="navigation-right">
