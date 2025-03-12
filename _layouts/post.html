@@ -9,27 +9,31 @@ layout: default
 </article>
 
 <nav class="post-navigation">
-  {% if page.previous %}
-    <a class="prev-post" href="{{ page.previous.url | prepend: site.baseurl }}">
-      <i class="fa fa-arrow-circle-o-left"></i> 
-      <span class="navigation-text">previous post</span>
-    </a>
-  {% else %}
-    <span class="navigation-item">
-      <i class="fa fa-arrow-circle-o-left"></i> 
-      <span class="navigation-text">previous post</span>
-    </span>
-  {% endif %}
+  <div class="navigation-left">
+    {% if page.previous %}
+      <a class="prev-post" href="{{ page.previous.url | prepend: site.baseurl }}">
+        <i class="fa fa-arrow-circle-o-left"></i> 
+        <span class="navigation-text">previous post</span>
+      </a>
+    {% else %}
+      <span class="navigation-item">
+        <i class="fa fa-arrow-circle-o-left"></i> 
+        <span class="navigation-text">previous post</span>
+      </span>
+    {% endif %}
+  </div>
 
-  {% if page.next %}
-    <a class="next-post" href="{{ page.next.url | prepend: site.baseurl }}">
-      <span class="pagination-text">next post</span> 
-      <i class="fa fa-arrow-circle-o-right"></i>
-    </a>
-  {% else %}
-    <span class="navigation-item">
-      <span class="pagination-text">next post</span> 
-      <i class="fa fa-arrow-circle-o-right"></i>
-    </span>
-  {% endif %}
+  <div class="navigation-right">
+    {% if page.next %}
+      <a class="next-post" href="{{ page.next.url | prepend: site.baseurl }}">
+        <span class="pagination-text">next post</span> 
+        <i class="fa fa-arrow-circle-o-right"></i>
+      </a>
+    {% else %}
+      <span class="navigation-item">
+        <span class="pagination-text">next post</span> 
+        <i class="fa fa-arrow-circle-o-right"></i>
+      </span>
+    {% endif %}
+  </div>
 </nav>
