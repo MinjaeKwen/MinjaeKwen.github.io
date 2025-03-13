@@ -5,7 +5,8 @@
 
   <body>
     <nav class="nav-main">
-      <ul>
+      <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+      <ul id="menu">
         <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">about me</a></li>
         <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/">K</a></li>
         <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/research/">research</a></li>
@@ -31,6 +32,13 @@
         </div>
       </footer>
     </div>
+
+    <script>
+      function toggleMenu() {
+        var menu = document.getElementById("menu");
+        menu.classList.toggle("active");
+      }
+    </script>
 
   </body>
 </html>
