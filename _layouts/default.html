@@ -5,10 +5,13 @@
 
   <body>
     <nav class="nav-main">
-      <div class="menu-toggle" onclick="toggleMenu()">☰</div>
-      <ul id="menu">
+      <ul class="nav-primary">
         <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">about me</a></li>
         <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/">K</a></li>
+        <li class="menu-toggle" onclick="toggleMenu()">☰</li>
+      </ul>
+
+      <ul class="nav-secondary" id="menu">
         <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/research/">research</a></li>
         <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">blog</a></li>
       </ul>
