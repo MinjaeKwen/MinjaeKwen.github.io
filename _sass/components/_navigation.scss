@@ -7,9 +7,19 @@
   font-size: $font-size; // override mobile media query
   text-align: center;
   margin-bottom: 4rem;
+  position: relative;
 
   @media (max-width: 38em) {
     margin-bottom: 2rem;
+  }
+
+  .menu-toggle {
+   display: none;
+   font-size: 2rem;
+   cursor: pointer;
+   position: absolute;
+   left: 10px;
+   top: 10px;
   }
 
   ul {
@@ -41,4 +51,26 @@
     margin: 0 1rem;
     padding: 0;
   }
+
+  @media (max-width: 768px) {
+   .menu-toggle {
+    display: block;
+   }
+
+   ul {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+   }
+
+   ul.active {
+    display: block;
+   }
+ }
 }
