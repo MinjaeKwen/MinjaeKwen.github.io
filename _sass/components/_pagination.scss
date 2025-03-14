@@ -63,11 +63,11 @@ a.pagination-item {
 }
 
 @media (max-width: 30em) {
-  .post-navigation.fa {
+  .post-navigation .fa {
     font-size: 2rem;
   }
-  .navigation-left.navigation-text,
-  .navigation-right.navigation-text {
+  .navigation-left .navigation-text,
+  .navigation-right .navigation-text {
     display: none;
   }
 }
