@@ -55,19 +55,25 @@ a.pagination-item {
   }
 }
 
+// ============== //
+
 .post-navigation {
   display: flex;
   justify-content: space-between; // 왼쪽과 오른쪽 끝으로 배치
+}
 
-  .navigation-left,
-  .navigation-list,
-  .navigation-right {
-    // 필요하면 공통 스타일
+@media (max-width: 30em) {
+  .navigation-text {
+    display: none;
   }
-
-  .prev-post,
+  .prev-post {
+    &:first-child {
+      font-size: 2rem;
+    }
+  }
   .next-post {
-    // 링크 스타일
-    // 예: margin, color, 등
+    &:last-child {
+      font-size: 2rem;
+    }
   }
 }
