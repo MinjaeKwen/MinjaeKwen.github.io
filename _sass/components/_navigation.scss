@@ -54,12 +54,21 @@
     
     .nav-primary {
       display: flex;
-      text-align: center;
       align-items: center;
+      justify-content: space-between;
       width: 100%;
+      padding: 10px
+    }
+
+    .logo {
+      margin: 0 auto;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
     }
 
     .menu-toggle {
+      margin-left: auto;
       font-size: 2rem;
       cursor: pointer;
       display: block; // 모바일에서 햄버거 버튼 표시
@@ -72,9 +81,10 @@
       top: 50px;
       left: 0;
       background-color: white;
-      width: 100%;
+      width: max-content;
       box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
       padding: 10px;
+      border-radius: 5px;
     }
 
     .nav-secondary.active {
