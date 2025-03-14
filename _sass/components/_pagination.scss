@@ -60,15 +60,20 @@ a.pagination-item {
 .post-navigation {
   display: flex;
   justify-content: space-between; // 왼쪽과 오른쪽 끝으로 배치
+  align-items: center;
+  width: 100%;
 }
 
 @media (max-width: 30em) {
   .post-navigation .fa {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .navigation-list .navigation-text {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
   }
   .navigation-left .navigation-text,
   .navigation-right .navigation-text {
