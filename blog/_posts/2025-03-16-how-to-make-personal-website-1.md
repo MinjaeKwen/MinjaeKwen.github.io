@@ -40,8 +40,11 @@ thumbnail: /assets/uploads/250316post-1.png
 이미 만들어진 Jekyll 디자인 템플릿이 인터넷 상에 많이 공유되어 있다. 이 중 여러분의 머리 속 웹사이트 구상과 잘 맞는 템플릿을 하나 고르면 된다. Github에서 템플릿을 포크(Fork)한 후에는 입맛에 맞게 수정을 하면 된다! 이 과정에서 도움이 될 만한 팁을 간략히 제공하자면,
 
 * Jekyll에서 HTML, CSS, Markdown(MD) 파일을 볼 수 있을 것이다. 비전공자를 위해 소개하면, HTML이 웹사이트 프로그램의 본 뼈대 / CSS는 디자인의 특성을 저장 / Markdown 파일은 게시물을 표현하는데 많이 쓰이는 듯 하다.
+  
 * 웹사이트의 화면을 메인으로 관장하는 파일은 index.html이라는 이름을 가진 경우가 흔하다. minjaekwen.github.io에 접속하면 index.html이 만드는 Home 화면이 뜨게 되고, minjaekwen.github.io/blog에 접속하면 blog/index.html가 만드는 Blog 화면이 뜨는 방식이다. (minjaekwen.github.io/about에 접속하면 about.html이 만드는 화면이 뜨기도 하니, 항상 index.html에만 집착하지는 말자.)
+  
 * Github 상의 디렉토리 구조 및 파일을 ChatGPT와 공유하고, 수정하고 싶은 점을 물어보자. 공유한 정보가 충분하다는 가정하에, ChatGPT는 여러분이 원하는 변화를 반영할 수 있는 코드 수정 역량이 충분하다. ChatGPT 나 다른 검증된 AI 모델의 도움을 적극적으로 받아보자.
+  
 * 코드를 수정하면, 이 수정 사항이 실제 웹사이트에 업데이트 되기까지 시간이 꽤나 걸린다. 코드를 잘못 수정했나 고민하지 말고, 여유있게 기다려보자.    
 <br>
 
