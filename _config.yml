@@ -27,3 +27,9 @@ plugins:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-gist
+
+# ----------------------------------------------------------------------------------------
+# 3rd Party Integrations
+# ----------------------------------------------------------------------------------------
+
+google_analytics:      G-ZS3DLDQ5JT
