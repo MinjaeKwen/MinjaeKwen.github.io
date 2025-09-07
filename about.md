@@ -30,12 +30,12 @@ For more details, please visit the <strong><a href="https://minjaekwen.github.io
 </p>
 
 <p style="text-align: justify;">
-Ph.D. in <strong>Quantum Science and Engineering</strong>, Harvard --- Sep. 2025 - Ongoing
-B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST --- Mar. 2019 - Feb. 2025
+Ph.D. in <strong>Quantum Science and Engineering</strong>, Harvard --- Sep. 2025 - Ongoing <br>
+B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST --- Mar. 2019 - Feb. 2025 <br>
       <i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian)
 <br><br>
-KAIST-IITM Joint Research Challenge, IIT Madras --- Jan. 2020
-UC Berkeley Summer Session, UC Berkeley --- Jun. 2019 - Aug. 2019
+KAIST-IITM Joint Research Challenge, IIT Madras --- Jan. 2020 <br>
+UC Berkeley Summer Session, UC Berkeley --- Jun. 2019 - Aug. 2019 <br>
 <br><br>
 In terms of technical skills, I am proficient in the Linux environment. 
 My primary programming languages include Python, C++, and Shell script, with additional experience in other languages such as JAVA and HTML.
