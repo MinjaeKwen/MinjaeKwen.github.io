@@ -10,7 +10,8 @@ title: About Me
       <strong>I am <a href="/files/MinjaeKwen_CV.pdf">Minjae Kwen</a>.</strong>
 </p>
 
-I am a student in the <a href="https://chem.kaist.ac.kr/eng">chemistry department of KAIST</a>, actively conducting research in the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. 
+I am <strong>Minjae Kwen</strong>, a Ph.D. student in the <a href="https://gsas.harvard.edu/program/quantum-science-and-engineering">Quantum Science and Engineering program</a> of <a href="https://www.harvard.edu/">Harvard University</a>.
+<!--actively conducting research in the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. -->
 
 <p style="font-size: 150%;">
       <a href="https://minjaekwen.github.io/research/">
@@ -19,9 +20,9 @@ I am a student in the <a href="https://chem.kaist.ac.kr/eng">chemistry departmen
 </p>
 
 <p style="text-align: justify;">
-My primary research interest lies in <strong>computational chemistry</strong> focusing on <i>ab initio</i> quantum calculations, especially <strong>Density Functional Theory (DFT)</strong>. I have investigated catalytic systems, analyzing reaction mechanisms to enhance catalytic efficiency. I am currently conducting nonadiabatic dynamics simulations, including surface hopping techniques, to gain deeper insights into photon-induced reactions and carrier dynamics.
+My primary research interest lies in <strong>computational chemistry</strong>, focusing on <i>ab initio</i> quantum calculations, especially <strong>Density Functional Theory (DFT)</strong>. I studied reaction mechanisms on the catalyst and nonadiabatic dynamics simulations (surface hopping techniques) on photoelectrochemical devices during my undergraduate.
 <br><br>
-Additionally, I have hands-on experience in nanocatalyst synthesis and electro-chemical system design. For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
+For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
 </p>
 
 <p style="font-size: 150%;">
@@ -29,24 +30,18 @@ Additionally, I have hands-on experience in nanocatalyst synthesis and electro-c
 </p>
 
 <p style="text-align: justify;">
-At KAIST, I got a B.S. in <strong>Chemistry</strong> with a minor in <strong>Material Science</strong>. 
-I have also taken additional courses in the Physics and Computer Science departments, which have improved my interdisciplinary skills. 
-I graduated in Feb. 2025 with <i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian).
+Ph.D. in <strong>Quantum Science and Engineering</strong>, Harvard --- Sep. 2025 - Ongoing
+B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST --- Mar. 2019 - Feb. 2025
+      <i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian)
 <br><br>
-For my overseas experiences, I visited <strong>UC Berkeley Summer Session</strong> in 2019.
-In 2020, I also visited <strong>IIT Madras, Chennai, India</strong> to exchange creative ideas with IITM students.
-</p>
-
-I have actively participated in several academic conferences, expanding my knowledge and networks in the field:
-* 2024 Korea-Japan Symposium on Molecular Science, Busan, Republic of Korea
-* NANO KOREA 2024, Goyang-si, Republic of Korea
-* ISTCP 2024, Qingdao, China
-<br>
-<p style="text-align: justify;">
-In terms of technical skills, I am proficient in the Linux environment for program development. 
+KAIST-IITM Joint Research Challenge, IIT Madras --- Jan. 2020
+UC Berkeley Summer Session, UC Berkeley --- Jun. 2019 - Aug. 2019
+<br><br>
+In terms of technical skills, I am proficient in the Linux environment. 
 My primary programming languages include Python, C++, and Shell script, with additional experience in other languages such as JAVA and HTML.
 </p>
 
+<!--
 <p style="font-size: 150%;">
       <strong>Other Experiences</strong>
 </p>
@@ -59,7 +54,7 @@ I have volunteered over 90 hours during my time at university.
 <br><br>
 I am passionate about sports, particularly baseball. I was a member of the <a href="https://www.instagram.com/kaistrookiesbb.1986/"><strong>KAIST baseball club "Rookie"</strong></a> for two years.
 </p>
-
+-->
 <p style="font-size: 150%;">
       <strong>Curriculum Vitae</strong>
 </p>
