@@ -29,19 +29,31 @@ For more details, please visit the <strong><a href="https://minjaekwen.github.io
       <strong>Academic Experiences</strong>
 </p>
 
-<p style="text-align: justify;">
-Ph.D. in <strong>Quantum Science and Engineering</strong>, Harvard 
-&emsp;&emsp;&emsp;&emsp;&emsp; --------- Sep. 2025 - Ongoing <br>
-B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST
-&emsp;&emsp;&emsp;&emsp;&emsp; --------- Mar. 2019 - Feb. 2025 <br>
-&emsp;&emsp;<i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian)
-<br><br>
-KAIST-IITM Joint Research Challenge, IIT Madras
-&emsp;&emsp;&emsp;&emsp;&emsp; --------- Jan. 2020 <br>
-UC Berkeley Summer Session, UC Berkeley
-&emsp;&emsp;&emsp;&emsp;&emsp; --------- Jun. 2019 - Aug. 2019 <br>
-<br>
-In terms of technical skills, I am proficient in the Linux environment. 
+<div class="cv-list">
+  <div class="cv-row">
+    <div class="cv-main">Ph.D. in <strong>Quantum Science and Engineering</strong>, Harvard</div>
+    <div class="cv-date">Sep. 2025 – Present</div>
+  </div>
+
+  <div class="cv-row">
+    <div class="cv-main">B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST</div>
+    <div class="cv-date">Mar. 2019 – Feb. 2025</div>
+  </div>
+  <div class="cv-sub"><i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian)</div>
+
+  <div class="cv-row">
+    <div class="cv-main">KAIST-IITM Joint Research Challenge, IIT Madras</div>
+    <div class="cv-date">Jan. 2020</div>
+  </div>
+
+  <div class="cv-row">
+    <div class="cv-main">UC Berkeley Summer Session, UC Berkeley</div>
+    <div class="cv-date">Jun. 2019 – Aug. 2019</div>
+  </div>
+</div>
+
+<p style="text-align: justify; margin-top: 1rem;">
+In terms of technical skills, I am proficient in the Linux environment.
 My primary programming languages include Python, C++, and Shell script, with additional experience in other languages such as JAVA and HTML.
 </p>
 

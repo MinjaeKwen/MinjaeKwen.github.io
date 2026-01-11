@@ -72,3 +72,44 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+/* About page: Academic Experiences (responsive) */
+.cv-list {
+  margin-top: 0.5rem;
+}
+
+.cv-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.35rem 0;
+}
+
+.cv-main {
+  min-width: 0;
+}
+
+.cv-date {
+  white-space: nowrap;
+  opacity: 0.85;
+  font-size: 0.95em;
+}
+
+.cv-sub {
+  margin: 0.1rem 0 0.6rem 0;
+  opacity: 0.9;
+}
+
+/* Mobile: stack content & date */
+@media (max-width: 600px) {
+  .cv-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+  }
+
+  .cv-date {
+    white-space: normal;
+  }
+}
