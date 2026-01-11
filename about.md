@@ -36,10 +36,9 @@ For more details, please visit the <strong><a href="https://minjaekwen.github.io
   </div>
 
   <div class="cv-row">
-    <div class="cv-main">B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST</div>
+    <div class="cv-main">B.S. in <strong>Chemistry</strong> (minor: Material Science), KAIST — <em>Valedictorian</em></div>
     <div class="cv-date">Mar. 2019 – Feb. 2025</div>
   </div>
-  <div class="cv-sub"><i>Summa Cum Laude</i> (GPA: 4.18/4.3, Valedictorian)</div>
 
   <div class="cv-row">
     <div class="cv-main">KAIST-IITM Joint Research Challenge, IIT Madras</div>
