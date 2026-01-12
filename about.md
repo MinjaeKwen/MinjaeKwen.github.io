@@ -10,7 +10,7 @@ title: About Me
       <strong>I am <a href="/files/MinjaeKwen_CV.pdf">Minjae Kwen</a>.</strong>
 </p>
 
-I am <strong>Minjae Kwen</strong>, a Ph.D. student in the <a href="https://gsas.harvard.edu/program/quantum-science-and-engineering">Quantum Science and Engineering program</a> of <a href="https://www.harvard.edu/">Harvard University</a>.
+I am <strong>Minjae Kwen</strong>, a Ph.D. student in the <a href="https://gsas.harvard.edu/program/quantum-science-and-engineering">Quantum Science and Engineering program</a> (QSE) of <a href="https://www.harvard.edu/">Harvard University</a>.
 <!--actively conducting research in the <a href="https://www.m-design-lab.net/">M-design Laboratory</a> under the guidance of <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Professor Hyungjun Kim</a>. -->
 
 <p style="font-size: 150%;">
@@ -20,7 +20,7 @@ I am <strong>Minjae Kwen</strong>, a Ph.D. student in the <a href="https://gsas.
 </p>
 
 <p style="text-align: justify;">
-My primary research interest lies in <strong>computational chemistry</strong>, focusing on <i>ab initio</i> quantum calculations, especially <strong>Density Functional Theory (DFT)</strong>. I studied reaction mechanisms on the catalyst and nonadiabatic dynamics simulations (surface hopping techniques) on photoelectrochemical devices during my undergraduate.
+My main research interest is <strong>quantum many-body theory</strong>. I work on <i>ab initio</i> quantum chemistry, condensed matter theory, and quantum dynamics. As an undergraduate, I studied catalytic reaction mechanisms and nonadiabatic dynamics (surface hopping) for photoelectrochemical devices. In graduate school, I aim to further develop my theoretical approaches.
 <br><br>
 For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
 </p>

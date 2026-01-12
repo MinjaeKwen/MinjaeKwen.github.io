@@ -2,14 +2,14 @@
 layout: page
 title: Research
 ---
-<!-- Research intro. & about me acad.+confer.+skill-->
+<!-- Research intro. & about me acad.+confer.+skill
 <p class="message" style="text-align: center; font-size: 125%;">
   Attempt for better computational methods,<br>
   illuminate the <strong><i>insight of chemistry</i></strong>
-</p>
+</p>-->
 
 <p style="font-size: 100%;">
-      Please Click the <strong><span style="color:rgb(88, 124, 173)">blue titles</span></strong> or thumbnails for detailed information!!
+      Please click the <strong><span class="nav-accent">highlighted texts</span></strong> to view detailed information!
 </p>
 
 <!--===========================================-->
