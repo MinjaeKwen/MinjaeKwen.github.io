@@ -16,32 +16,48 @@ title: Research
   <strong>Publications</strong>
 </p>
 
-<ul style="margin-top: 0.5rem;">
-  <li style="margin-bottom: 0.8rem;">
-    <a href="https://minjaekwen.github.io/research1"><strong>
-      Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions (Computational Study)
-    </strong></a><br>
-    <span style="font-size: 90%; opacity: 0.9;">
-      <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</a>
+<ol style="margin: 0.6rem 0 0 0; padding-left: 1.4rem;">
+  <li style="margin-bottom: 1rem;">
+    <span style="font-size: 92%; opacity: 0.95;">
+      Yaejun Baik, <strong>Minjae Kwen</strong>, Kyungho Lee, <i>et al.</i>
+    </span><br>
+    <a href="https://minjaekwen.github.io/research1">
+      <strong>
+        Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions
+      </strong>
+    </a><br>
+    <span style="font-size: 92%; opacity: 0.9;">
+      <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529">
+        <i>J. Am. Chem. Soc.</i> 145(20), 11364–11374 (2023)
+      </a>
     </span>
   </li>
-</ul>
-
+  <!--Add <li>...</li>-->
+</ol>
 
 <p style="font-size: 160%; margin-top: 2rem;">
   <strong>Conferences</strong>
 </p>
 
-<ul style="margin-top: 0.5rem;">
-  <li style="margin-bottom: 0.8rem;">
-    <a href="https://minjaekwen.github.io/research2"><strong>
-      Time-domain <i>ab initio</i> analysis of facet-dependent carrier dynamics in cuprous oxide
-    </strong></a><br>
-    <span style="font-size: 90%; opacity: 0.9;">
-      Poster, ISTCP 2024 · <a href="/files/MinjaeKwen_Poster_ISTCP2024.pdf">Poster PDF</a>
+<ol style="margin: 0.6rem 0 0 0; padding-left: 1.4rem;">
+  <li style="margin-bottom: 1rem;">
+    <span style="font-size: 92%; opacity: 0.95;">
+      <strong>Minjae Kwen</strong>, Yoosang Son, Hyungjun Kim
+    </span><br>
+    <a href="https://minjaekwen.github.io/research2">
+      <strong>
+        Time-domain <i>ab initio</i> analysis of facet-dependent carrier dynamics in cuprous oxide
+      </strong>
+    </a><br>
+    <span style="font-size: 92%; opacity: 0.9;">
+      Poster presentation, ISTCP 2024 · 
+      <a href="/files/MinjaeKwen_Poster_ISTCP2024.pdf">Poster PDF</a>
     </span>
   </li>
-</ul>
+  <!--Add <li>...</li>-->
+</ol>
+
+
 
 <p style="font-size: 160%; margin-top: 2rem;">
   <strong>Other Projects</strong>
