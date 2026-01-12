@@ -12,7 +12,94 @@ title: Research
       Please click the <strong><span class="nav-accent">highlighted texts</span></strong> to view detailed information!
 </p>
 
-<!--===========================================-->
+<p style="font-size: 160%; margin-top: 1.5rem;">
+  <strong>Publications</strong>
+</p>
+
+<ul style="margin-top: 0.5rem;">
+  <li style="margin-bottom: 0.8rem;">
+    <a href="https://minjaekwen.github.io/research1"><strong>
+      Splitting of Hydrogen Atoms into Proton–Electron Pairs at BaO–Ru Interfaces for Promoting Ammonia Synthesis under Mild Conditions (Computational Study)
+    </strong></a><br>
+    <span style="font-size: 90%; opacity: 0.9;">
+      <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</a>
+    </span>
+  </li>
+</ul>
+
+
+<p style="font-size: 160%; margin-top: 2rem;">
+  <strong>Conferences</strong>
+</p>
+
+<ul style="margin-top: 0.5rem;">
+  <li style="margin-bottom: 0.8rem;">
+    <a href="https://minjaekwen.github.io/research2"><strong>
+      Time-domain <i>ab initio</i> analysis of facet-dependent carrier dynamics in cuprous oxide
+    </strong></a><br>
+    <span style="font-size: 90%; opacity: 0.9;">
+      Poster, ISTCP 2024 · <a href="/files/MinjaeKwen_Poster_ISTCP2024.pdf">Poster PDF</a>
+    </span>
+  </li>
+</ul>
+
+<p style="font-size: 160%; margin-top: 2rem;">
+  <strong>Other Projects</strong>
+</p>
+
+<!-- Project 3 -->
+<div style="margin-bottom: 1.6rem;">
+  <a href="https://minjaekwen.github.io/research3">
+    <strong>
+      Screening pathways for nitrogen monoxide electroreduction on transition-metal TPP using density-functional theory
+    </strong>
+  </a>
+
+  <figure style="max-width:100%; height:auto; margin: 0.4rem 0 0;">
+    <a href="https://minjaekwen.github.io/research3">
+      <img src="/images/R3_full.png" style="max-width:100%; height:auto;" />
+    </a>
+    <figcaption style="font-size: 85%; opacity: 0.9; margin-top: 0.4rem;">
+      <strong>Status:</strong> Finished · Follow-up work by a collaborator (Junsoo Lee) is in preparation for publication.
+    </figcaption>
+  </figure>
+</div>
+
+<!-- Project 4 -->
+<div style="margin-bottom: 1.6rem;">
+  <a href="https://minjaekwen.github.io/research4">
+    <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
+  </a>
+
+  <figure style="max-width:100%; height:auto; margin: 0.4rem 0 0;">
+    <a href="https://minjaekwen.github.io/research4">
+      <img src="/images/R4_full.png" style="max-width:100%; height:auto;" />
+    </a>
+    <figcaption style="font-size: 85%; opacity: 0.9; margin-top: 0.4rem;">
+      <strong>Status:</strong> Finished
+    </figcaption>
+  </figure>
+</div>
+
+<!-- Project 5 -->
+<div style="margin-bottom: 1.6rem;">
+  <a href="https://minjaekwen.github.io/research5">
+    <strong>Electrochemical potential window of molecularly crowded electrolytes with various Li salts</strong>
+  </a>
+
+  <figure style="max-width:100%; height:auto; margin: 0.4rem 0 0;">
+    <a href="https://minjaekwen.github.io/research5">
+      <img src="/images/R5_full.png" style="max-width:100%; height:auto;" />
+    </a>
+    <figcaption style="font-size: 85%; opacity: 0.9; margin-top: 0.4rem;">
+      <strong>Status:</strong> Finished
+    </figcaption>
+  </figure>
+</div>
+
+
+
+<!--===========================================-
 
 <p style="font-size: 150%;">
       <strong>Research 1. </strong><i>[Published]</i>
@@ -29,7 +116,6 @@ title: Research
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Published</strong>, <a href="https://pubs.acs.org/doi/full/10.1021/jacs.3c02529"><i>J. Am. Chem. Soc.</i> 2023, 145, 20, 11364–11374</a>
 
-<!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 2. </strong><i>[On-going]</i>
 </p>
@@ -45,7 +131,6 @@ title: Research
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: On-going</strong>, Presented in a poster session of ISTCP 2024(<a href="/files/MinjaeKwen_Poster_ISTCP2024.pdf">Poster File</a>)
 
-<!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 3. </strong><i>[On-going*]</i>
 </p>
@@ -63,7 +148,6 @@ TPP using Density-Functional Theory</strong>
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>, Follow-up study performed by the co-worker(Junsoo Lee) will be published*
 
-<!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 4. </strong>
 </p>
@@ -85,7 +169,6 @@ TPP using Density-Functional Theory</strong>
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
 
-<!--===========================================-->
 <p style="font-size: 150%;">
       <br><strong>Research 5. </strong>
 </p>
@@ -102,6 +185,7 @@ Salt</strong>
   <figcaption style="font-size:50%; margin-left:20px;">1) <i>Science</i> 2015, 350, 938-943<br><br></figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;<strong>* Status: Finished</strong>
+->
 
 <!--
 <div style="max-width:30%; height:auto; border:2px solid black; float:left; margin-right:30px; margin-bottom:10px;">
