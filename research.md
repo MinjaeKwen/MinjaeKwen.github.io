@@ -69,7 +69,8 @@ title: Research
     <tr>
       <td style="width: 180px; vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research3">
-          <img src="/images/R3_full.png" style="width: 160px; height: auto; margin: 0; border-radius: 6px;" />
+          <img src="/images/R3_full.png" 
+              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
         </a>
       </td>
       <td style="vertical-align: middle;">
@@ -87,7 +88,8 @@ title: Research
     <tr>
       <td style="width: 180px; vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research4">
-          <img src="/images/R4_full.png" style="width: 160px; height: auto; margin: 0; border-radius: 6px;" />
+          <img src="/images/R4_full.png" 
+              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
         </a>
       </td>
       <td style="vertical-align: middle;">
@@ -103,7 +105,8 @@ title: Research
     <tr>
       <td style="width: 180px; vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research5">
-          <img src="/images/R5_full.png" style="width: 160px; height: auto; margin: 0; border-radius: 6px;" />
+          <img src="/images/R5_full.png" 
+              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
         </a>
       </td>
       <td style="vertical-align: middle;">
