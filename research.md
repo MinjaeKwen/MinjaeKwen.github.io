@@ -67,12 +67,12 @@ title: Research
   <tbody>
     <!-- Project 3 -->
     <tr>
-      <td style="width: 180px; vertical-align: top;">
+      <td style="width: 180px; vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research3">
           <img src="/images/R3_full.png" style="width: 160px; height: auto; margin: 0; border-radius: 6px;" />
         </a>
       </td>
-      <td style="vertical-align: top;">
+      <td style="vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research3">
           <strong>
             Screening pathways for nitrogen monoxide electroreduction on transition-metal TPP using density-functional theory
@@ -85,12 +85,12 @@ title: Research
     </tr>
     <!-- Project 4 -->
     <tr>
-      <td style="width: 180px; vertical-align: top;">
+      <td style="width: 180px; vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research4">
           <img src="/images/R4_full.png" style="width: 160px; height: auto; margin: 0; border-radius: 6px;" />
         </a>
       </td>
-      <td style="vertical-align: top;">
+      <td style="vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research4">
           <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
         </a>
@@ -101,12 +101,12 @@ title: Research
     </tr>
     <!-- Project 5 -->
     <tr>
-      <td style="width: 180px; vertical-align: top;">
+      <td style="width: 180px; vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research5">
           <img src="/images/R5_full.png" style="width: 160px; height: auto; margin: 0; border-radius: 6px;" />
         </a>
       </td>
-      <td style="vertical-align: top;">
+      <td style="vertical-align: middle;">
         <a href="https://minjaekwen.github.io/research5">
           <strong>
             Electrochemical potential window of molecularly crowded electrolytes with various Li salts

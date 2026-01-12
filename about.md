@@ -36,7 +36,7 @@ For more details, please visit the <strong><a href="https://minjaekwen.github.io
   </div>
 
   <div class="cv-row">
-    <div class="cv-main">B.S. in <strong>Chemistry</strong> (minor: Mat. Sci.), KAIST — <em>Valedictorian</em></div>
+    <div class="cv-main">B.S. in <strong>Chemistry</strong> (Mat. Sci.), KAIST — <em>Valedictorian</em></div>
     <div class="cv-date">Mar. 2019 – Feb. 2025</div>
   </div>
 
