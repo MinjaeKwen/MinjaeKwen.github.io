@@ -79,7 +79,7 @@ title: Research
           </strong>
         </a>
         <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Finished. Follow-up work by a collaborator (Junsoo Lee) is in preparation for publication.
+          Finished. 
         </div>
       </td>
     </tr>
@@ -95,7 +95,7 @@ title: Research
           <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
         </a>
         <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Completed project on nanocatalyst synthesis and characterization.
+          Finished. 
         </div>
       </td>
     </tr>
@@ -113,7 +113,7 @@ title: Research
           </strong>
         </a>
         <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Completed study on electrolyte design and electrochemical stability.
+          Finished. 
         </div>
       </td>
     </tr>
