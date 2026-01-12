@@ -6,11 +6,19 @@
 .nav-main {
   font-size: $font-size; // override mobile media query
   text-align: center;
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: $body-background-color;
+
   margin-bottom: 4rem;
-  position: relative;
+
+  border-bottom: $nav-bottom-border-width solid $nav-bottom-border-color;
 
   ul {
     padding: 0;
+    border-bottom: 0;
     border-bottom-color: $nav-bottom-border-color;
     border-bottom-width: $nav-bottom-border-width;
     border-bottom-style: solid;
