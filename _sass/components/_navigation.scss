@@ -9,14 +9,14 @@
 
   position: sticky;
   top: 0;
+  z-index: 1000;
   background: $body-background-color;
-  border-bottom: $nav-bottom-border-width solid $nav-bottom-border-color;
-
+  
   margin-bottom: 4rem;
 
   ul {
     padding: 0;
-    border-bottom: 0;
+    border-bottom: $nav-bottom-border-width solid $nav-bottom-border-color;
   }
  
   li {
