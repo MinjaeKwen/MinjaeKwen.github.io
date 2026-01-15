@@ -120,6 +120,25 @@ title: Research
         </div>
       </td>
     </tr>
+    <!-- Project 6 -->
+    <tr>
+      <td style="width: 180px; vertical-align: middle;">
+        <a href="https://minjaekwen.github.io/research6">
+          <img src="/images/R6_full.png" 
+              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
+        </a>
+      </td>
+      <td style="vertical-align: middle;">
+        <a href="https://minjaekwen.github.io/research6">
+          <strong>
+            Machine Learning prediction of phonon dispersion in crystal
+          </strong>
+        </a>
+        <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
+          On-going 
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
