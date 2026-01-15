@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research5
+title: Research Project in Detail
 ---
 
 <p align="center" style="max-width:100%; height:auto;">

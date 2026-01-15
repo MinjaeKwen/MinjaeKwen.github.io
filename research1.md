@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research 1
+title: Research Project in Detail
 ---
 <figure style="max-width:100%; height:auto; margin-left:-10px; margin-right:-10px;">
     <img src="/images/R1_full.png" style="max-width:100%; height:auto;" />

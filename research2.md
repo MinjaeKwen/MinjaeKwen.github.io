@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research2
+title: Research Project in Detail
 ---
 <p align="center" style="max-width:100%; height:auto;">
     <img src="/images/R2_full.png" style="max-width:100%; height:auto;" />
