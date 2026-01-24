@@ -12,7 +12,7 @@ title: Research Project in Detail
     &nbsp;&nbsp;&nbsp;Machine Learning prediction of phonon dispersion in crystal<br>
     <br>
     <strong>Results</strong><br>
-    &nbsp;&nbsp;&nbsp;<a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">Group Meeting Presentation with Documented PDF</a><br>
+    &nbsp;&nbsp;&nbsp;Group Meeting Presentation with Documented PDF<br>
     <div style="margin-left: 2.2em; margin-top: 0.5em;">
     <a href="{{ '/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf' | relative_url }}"
         target="_blank" rel="noopener">
