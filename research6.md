@@ -12,7 +12,19 @@ title: Research Project in Detail
     &nbsp;&nbsp;&nbsp;Machine Learning prediction of phonon dispersion in crystal<br>
     <br>
     <strong>Results</strong><br>
-    &nbsp;&nbsp;&nbsp;Presentation in group meeting (<a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">Documented PDF</a> )<br>
+    &nbsp;&nbsp;&nbsp;<a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">Group Meeting Presentation with Documented PDF</a><br>
+    <div style="margin-left: 2.2em; margin-top: 0.5em;">
+    <a href="{{ '/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf' | relative_url }}"
+        target="_blank" rel="noopener">
+        <img src="{{ '/files/Phonon_NequIP_PDF_thumbnail.png' | relative_url }}"
+            alt="PDF thumbnail: Machine Learning Prediction of Phonon Dispersion"
+            style="max-width: 520px; width: 100%; height: auto; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
+    </a>
+    <div style="margin-top: 0.35em;">
+        <a href="{{ '/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf' | relative_url }}"
+        target="_blank" rel="noopener">Open PDF</a>
+    </div>
+    </div>
     <br>
     <strong>Laboratory and Advisor</strong><br>
     &nbsp;&nbsp;&nbsp; Lee group (CCB, Harvard), Pf. Joonho Lee<br>
