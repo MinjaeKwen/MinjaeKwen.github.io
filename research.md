@@ -80,7 +80,7 @@ title: Research
           </strong>
         </a>
         <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          On-going 
+          Finished.
         </div>
       </td>
     </tr>
