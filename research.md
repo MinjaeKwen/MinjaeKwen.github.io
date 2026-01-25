@@ -80,7 +80,8 @@ title: Research
           </strong>
         </a>
         <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Finished.
+          Finished · 
+      <a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">PDF</a>.
         </div>
       </td>
     </tr>
