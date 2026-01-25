@@ -2,6 +2,8 @@
 title: How to make Personal Website
 date: 2025-03-16T09:47:44.483Z
 thumbnail: /assets/uploads/250316post-1.png
+lang: ko
+ref: website-dev-1
 ---
 블로그 첫 글을 기념하여, 웹사이트 개발 과정을 간단하게 소개하고자 한다.
 
