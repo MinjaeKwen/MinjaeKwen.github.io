@@ -95,9 +95,9 @@ layout: default
   {%- if translated_post -%}
     <p class="post-lang-switch">
       {% if page_lang == "ko" %}
-        If you are an English user, <a href="{{ translated_post.url | prepend: site.baseurl }}">click here</a>.
+        <a href="{{ translated_post.url | prepend: site.baseurl }}">[ENG Version]</a>
       {% else %}
-        한국어 버전은 <a href="{{ translated_post.url | prepend: site.baseurl }}">여기</a>를 클릭하세요.
+        <a href="{{ translated_post.url | prepend: site.baseurl }}">[KOR Version / 한국어 버전]</a>
       {% endif %}
     </p>
   {%- endif -%}
