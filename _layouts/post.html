@@ -2,6 +2,140 @@
 layout: default
 ---
 
+{%- comment -%}
+  1) 언어 기본값: lang이 없으면 ko로 취급
+  2) 같은 언어 글만 모아서 prev/next를 직접 계산
+  3) ref가 있으면 번역(반대 언어) 글을 찾아 상단에 링크 자동 표시
+{%- endcomment -%}
+
+{% assign page_lang = page.lang | default: "ko" %}
+{% assign nav_posts = site.posts | where_exp: "p", "(p.lang | default: 'ko') == page_lang" %}
+
+{% assign curr_index = nil %}
+{% for p in nav_posts %}
+  {% if p.url == page.url %}
+    {% assign curr_index = forloop.index0 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
+{% if curr_index != nil %}
+  {%- comment -%}
+    nav_posts는 최신글이 앞(0번)인 배열이라,
+    prev_post = 더 최신글(인덱스 -1), next_post = 더 이전글(인덱스 +1)
+    -> 기존 page.previous/page.next 체감 동작과 최대한 비슷하게 맞춤
+  {%- endcomment -%}
+  {% assign prev_post = nav_posts[curr_index | minus: 1] %}
+  {% assign next_post = nav_posts[curr_index | plus: 1] %}
+{% endif %}
+
+{% assign translated_post = nil %}
+{% if page.ref %}
+  {% if page_lang == "en" %}
+    {% assign translated_post = site.posts | where: "ref", page.ref | where_exp: "p", "(p.lang | default: 'ko') == 'ko'" | first %}
+  {% else %}
+    {% assign translated_post = site.posts | where: "ref", page.ref | where_exp: "p", "(p.lang | default: 'ko') == 'en'" | first %}
+  {% endif %}
+{% endif %}
+
+
+<nav class="post-navigation">
+  <div class="navigation-left">
+    {% if prev_post %}
+      <a class="prev-post" href="{{ prev_post.url | prepend: site.baseurl }}">
+        <i class="fa-solid fa-circle-arrow-left"></i>
+        <span class="navigation-text">Prev</span>
+      </a>
+    {% else %}
+      <span class="navigation-item">
+        <i class="fa-solid fa-circle-arrow-left"></i>
+        <span class="navigation-text">Prev</span>
+      </span>
+    {% endif %}
+  </div>
+
+  <div class="navigation-list">
+    <a class="list-post" href="{{ site.baseurl }}/blog/">
+      <span class="navigation-text">List</span>
+    </a>
+  </div>
+
+  <div class="navigation-right">
+    {% if next_post %}
+      <a class="next-post" href="{{ next_post.url | prepend: site.baseurl }}">
+        <span class="pagination-text">Next</span>
+        <i class="fa-solid fa-circle-arrow-right"></i>
+      </a>
+    {% else %}
+      <span class="navigation-item">
+        <span class="pagination-text">Next</span>
+        <i class="fa-solid fa-circle-arrow-right"></i>
+      </span>
+    {% endif %}
+  </div>
+</nav>
+
+<br>
+
+<article class="post">
+  {%- if translated_post -%}
+    <p class="post-lang-switch">
+      {% if page_lang == "ko" %}
+        If you are an English user, <a href="{{ translated_post.url | prepend: site.baseurl }}">click here</a>.
+      {% else %}
+        한국어 버전은 <a href="{{ translated_post.url | prepend: site.baseurl }}">여기</a>를 클릭하세요.
+      {% endif %}
+    </p>
+  {%- endif -%}
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  {{ content }}
+</article>
+
+<nav class="post-navigation">
+  <div class="navigation-left">
+    {% if prev_post %}
+      <a class="prev-post" href="{{ prev_post.url | prepend: site.baseurl }}">
+        <i class="fa-solid fa-circle-arrow-left"></i>
+        <span class="navigation-text">Prev</span>
+      </a>
+    {% else %}
+      <span class="navigation-item">
+        <i class="fa-solid fa-circle-arrow-left"></i>
+        <span class="navigation-text">Prev</span>
+      </span>
+    {% endif %}
+  </div>
+
+  <div class="navigation-list">
+    <a class="list-post" href="{{ site.baseurl }}/blog/">
+      <span class="navigation-text">List</span>
+    </a>
+  </div>
+
+  <div class="navigation-right">
+    {% if next_post %}
+      <a class="next-post" href="{{ next_post.url | prepend: site.baseurl }}">
+        <span class="pagination-text">Next</span>
+        <i class="fa-solid fa-circle-arrow-right"></i>
+      </a>
+    {% else %}
+      <span class="navigation-item">
+        <span class="pagination-text">Next</span>
+        <i class="fa-solid fa-circle-arrow-right"></i>
+      </span>
+    {% endif %}
+  </div>
+</nav>
+
+<br>
+
+
+
+{%- comment -%}
 <nav class="post-navigation">
   <div class="navigation-left">
     {% if page.previous %}
@@ -81,3 +215,4 @@ layout: default
   </div>
 </nav>
 <br>
+{%- endcomment -%}
