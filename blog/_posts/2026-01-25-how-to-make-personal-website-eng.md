@@ -10,7 +10,7 @@ To celebrate my first blog post, I’d like to briefly introduce the process of 
 
 ![First Image of My Website](/assets/uploads/250316post-1.png "Website_Overview")
 
-## ** 1. Setting the direction for building the website **
+## **1. Setting the direction for building the website**
 
 There are many ways to build a website. The easiest option is to use a platform that specializes in website creation (such as WIX). The method itself is simple, but there is a downside: to use a custom domain, you typically need to pay a subscription fee. That means you may end up spending money continuously if you plan to maintain the website long-term. If you don’t mind paying ongoing maintenance costs, this is a method worth recommending.
 
@@ -24,7 +24,7 @@ I did list programming as a “con,” but I hope you won’t feel too intimidat
 
 <br>
 
-## ** 2. The purpose of building the website **
+## **2. The purpose of building the website**
 
 What is your purpose for building a website? This is extremely important to clarify early, because the content of your website should change depending on your goal.
 
@@ -34,7 +34,7 @@ I recommend that you decide on the structure and content of your website accordi
 
 <br>
 
-## ** 3. Getting started with development **
+## **3. Getting started with development**
 
 This website is built on Jekyll. If you’re interested in this approach, I recommend the link below:
 
@@ -54,7 +54,7 @@ There are many pre-made Jekyll design templates shared online. You just need to 
 
 <br>
 
-## ** 4. Closing thoughts **
+## **4. Closing thoughts**
 
 Building a free website is not always easy. If you don’t really need a personal website and you don’t have much time, I wouldn’t recommend forcing yourself to build one. Still, once you make it, you can use it for a long time—so if you have a decent grasp of programming fundamentals, I believe it’s absolutely worth the challenge.
 
