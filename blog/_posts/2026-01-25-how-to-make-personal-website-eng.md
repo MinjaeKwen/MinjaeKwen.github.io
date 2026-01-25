@@ -10,21 +10,22 @@ To celebrate my first blog post, I’d like to briefly introduce the process of 
 
 ![First Image of My Website](/assets/uploads/250316post-1.png "Website_Overview")
 
-1. Setting the direction for building the website
+## ** 1. Setting the direction for building the website **
 
 There are many ways to build a website. The easiest option is to use a platform that specializes in website creation (such as WIX). The method itself is simple, but there is a downside: to use a custom domain, you typically need to pay a subscription fee. That means you may end up spending money continuously if you plan to maintain the website long-term. If you don’t mind paying ongoing maintenance costs, this is a method worth recommending.
 
 My current website (https://minjaekwen.github.io
 ) was created by developing it directly using GitHub. The pros and cons of this approach are as follows:
 
-Pros: Zero maintenance cost! / You can also show off your programming skills(?)
+* Pros: Zero maintenance cost! / You can also show off your programming skills(?)
 
-Cons: Because it’s based on HTML and CSS coding, you need a basic understanding of programming / Limited scalability
+* Cons: Because it’s based on HTML and CSS coding, you need a basic understanding of programming / Limited scalability 
 
 I did list programming as a “con,” but I hope you won’t feel too intimidated by it. When I first started making my website, I had virtually no understanding of HTML either. If you have basic coding experience and understand concepts like objects (classes), that is more than enough. You can also look at a few HTML code examples online to gauge both your current ability and the overall difficulty.
 
 <br>
-2. The purpose of building the website
+
+## ** 2. The purpose of building the website **
 
 What is your purpose for building a website? This is extremely important to clarify early, because the content of your website should change depending on your goal.
 
@@ -33,7 +34,8 @@ I built this website for personal promotion during my study-abroad application p
 I recommend that you decide on the structure and content of your website according to your own purpose before you begin development. Jumping into website building without a clear blueprint can lead to a lot of trial and error—and it would be a waste of your time.
 
 <br>
-3. Getting started with development
+
+## ** 3. Getting started with development **
 
 This website is built on Jekyll. If you’re interested in this approach, I recommend the link below:
 
@@ -52,7 +54,8 @@ Share your GitHub directory structure and files with ChatGPT, and ask about the 
 When you edit the code, it can take quite a while before your changes appear on the live website. Don’t panic and assume you broke something—give it time and check again later.
 
 <br>
-4. Closing thoughts
+
+## ** 4. Closing thoughts **
 
 Building a free website is not always easy. If you don’t really need a personal website and you don’t have much time, I wouldn’t recommend forcing yourself to build one. Still, once you make it, you can use it for a long time—so if you have a decent grasp of programming fundamentals, I believe it’s absolutely worth the challenge.
 
