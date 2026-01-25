@@ -2,14 +2,15 @@
 layout: default
 ---
 
-{%- comment -%}
-  1) 언어 기본값: lang이 없으면 ko로 취급
-  2) 같은 언어 글만 모아서 prev/next를 직접 계산
-  3) ref가 있으면 번역(반대 언어) 글을 찾아 상단에 링크 자동 표시
-{%- endcomment -%}
-
 {% assign page_lang = page.lang | default: "ko" %}
-{% assign nav_posts = site.posts | where_exp: "p", "(p.lang | default: 'ko') == page_lang" %}
+
+{% assign nav_posts = "" | split: "" %}
+{% for p in site.posts %}
+  {% assign p_lang = p.lang | default: "ko" %}
+  {% if p_lang == page_lang %}
+    {% assign nav_posts = nav_posts | push: p %}
+  {% endif %}
+{% endfor %}
 
 {% assign curr_index = nil %}
 {% for p in nav_posts %}
@@ -22,24 +23,35 @@ layout: default
 {% assign prev_post = nil %}
 {% assign next_post = nil %}
 {% if curr_index != nil %}
-  {%- comment -%}
-    nav_posts는 최신글이 앞(0번)인 배열이라,
-    prev_post = 더 최신글(인덱스 -1), next_post = 더 이전글(인덱스 +1)
-    -> 기존 page.previous/page.next 체감 동작과 최대한 비슷하게 맞춤
-  {%- endcomment -%}
-  {% assign prev_post = nav_posts[curr_index | minus: 1] %}
-  {% assign next_post = nav_posts[curr_index | plus: 1] %}
+  {% if curr_index > 0 %}
+    {% assign prev_index = curr_index | minus: 1 %}
+    {% assign prev_post = nav_posts[prev_index] %}
+  {% endif %}
+
+  {% assign last_index = nav_posts.size | minus: 1 %}
+  {% if curr_index < last_index %}
+    {% assign next_index = curr_index | plus: 1 %}
+    {% assign next_post = nav_posts[next_index] %}
+  {% endif %}
 {% endif %}
 
 {% assign translated_post = nil %}
 {% if page.ref %}
+  {% assign target_lang = "en" %}
   {% if page_lang == "en" %}
-    {% assign translated_post = site.posts | where: "ref", page.ref | where_exp: "p", "(p.lang | default: 'ko') == 'ko'" | first %}
-  {% else %}
-    {% assign translated_post = site.posts | where: "ref", page.ref | where_exp: "p", "(p.lang | default: 'ko') == 'en'" | first %}
+    {% assign target_lang = "ko" %}
   {% endif %}
-{% endif %}
 
+  {% for p in site.posts %}
+    {% if p.ref == page.ref %}
+      {% assign p_lang = p.lang | default: "ko" %}
+      {% if p_lang == target_lang %}
+        {% assign translated_post = p %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
 
 <nav class="post-navigation">
   <div class="navigation-left">
