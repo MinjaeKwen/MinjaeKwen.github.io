@@ -6,6 +6,8 @@ lang: en
 ref: website-dev-1
 hidden: true
 ---
+**\* This English translation is provided by ChatGPT.**
+
 To celebrate my first blog post, I’d like to briefly introduce the process of building my website.
 
 ![First Image of My Website](/assets/uploads/250316post-1.png "Website_Overview")
@@ -61,5 +63,3 @@ Building a free website is not always easy. If you don’t really need a persona
 ** I’m cheering for everyone who is considering building a website for all kinds of different purposes! **
 
 <br>
-
-\* This English version is translated by ChatGPT.
