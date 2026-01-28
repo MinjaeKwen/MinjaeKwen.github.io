@@ -1,5 +1,5 @@
 ---
-title: "Quantum World AI : The Future Wave"
+title: "Quantum World AI : The Future Wave [KOR]"
 date: 2026-01-28T21:02:34.283Z
 thumbnail: /assets/uploads/260128post-2.png
 lang: ko
