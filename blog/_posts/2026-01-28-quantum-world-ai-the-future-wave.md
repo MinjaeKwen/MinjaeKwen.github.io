@@ -5,6 +5,7 @@ thumbnail: /assets/uploads/260128post-2.png
 lang: ko
 ref: Future_Quantum_World_AI
 hidden: true
+noindex: true
 ---
 ![Atlas (humaniod robot from Boston Dyanmics) at CES 2026](/assets/uploads/260128post-1.png "Atlas at CES 2026")
 

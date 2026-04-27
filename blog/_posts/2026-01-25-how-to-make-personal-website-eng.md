@@ -5,6 +5,7 @@ thumbnail: /assets/uploads/250316post-1.png
 lang: en
 ref: website-dev-1
 hidden: true
+noindex: true
 ---
 **\* This English translation is provided by ChatGPT.**
 

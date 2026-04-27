@@ -5,6 +5,7 @@ thumbnail: /assets/uploads/260128post-2.png
 lang: en
 ref: Future_Quantum_World_AI
 hidden: false
+noindex: true
 ---
 \[﻿Keep updating / Not Finished]
 
