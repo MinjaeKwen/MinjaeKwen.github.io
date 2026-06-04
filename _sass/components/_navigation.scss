@@ -30,15 +30,25 @@
   }
  
   li.logo a {
-    color: $nav-icon-color;
-    background: $nav-icon-background-color;
-    font-weight: bold;
-    width: 1.6em;
-    height: 1.6em;
-    border-radius: 50px;
-    line-height: 1.6em;
-    margin: 0 1rem;
-    padding: 0;
+    background: transparent;
+    width: auto;
+    height: auto;
+    border-radius: 0;
+    line-height: 1;
+    margin: 0 0.75rem;
+    padding: 0.3rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      width: 2rem;
+      height: 2rem;
+      object-fit: contain;
+      border-radius: 4px;
+      margin: 0;
+      display: block;
+    }
   }
 
   @media (max-width: 38em) {

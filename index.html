@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
 <style>
 /* Landing page — MBTA-inspired teal theme */
 .landing {
@@ -88,47 +84,56 @@ title: Home
   display: flex;
   gap: 0.875rem;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   margin-bottom: 2.5rem;
+}
+
+.btn-primary,
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 2.6rem;
+  padding: 0 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: background 0.18s, color 0.18s;
+  box-sizing: border-box;
 }
 
 .btn-primary {
   background: #008EAA;
   color: #fff !important;
-  border-radius: 8px;
-  padding: 0.65rem 1.4rem;
-  font-size: 0.9rem;
-  font-weight: 600;
-  font-family: 'Inter', sans-serif;
-  text-decoration: none !important;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  transition: background 0.18s;
+  border-color: #008EAA;
 }
 
 .btn-primary:hover {
   background: #005f75;
+  border-color: #005f75;
 }
 
 .btn-secondary {
   background: #fff;
   color: #008EAA !important;
-  border: 2px solid #008EAA;
-  border-radius: 8px;
-  padding: 0.65rem 1.4rem;
-  font-size: 0.9rem;
-  font-weight: 600;
-  font-family: 'Inter', sans-serif;
-  text-decoration: none !important;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  transition: background 0.18s;
+  border-color: #008EAA;
 }
 
 .btn-secondary:hover {
   background: #e0f4f8;
+}
+
+.btn-copied {
+  background: #e0f4f8 !important;
+  color: #005f75 !important;
+  border-color: #008EAA !important;
 }
 
 /* Research Areas section */
@@ -215,10 +220,26 @@ title: Home
     <a href="/files/MinjaeKwen_CV.pdf" class="btn-primary">
       <i class="fa-solid fa-file-lines"></i> Curriculum Vitae
     </a>
-    <a href="mailto:minjaekwen@gmail.com" class="btn-secondary">
-      <i class="fa-solid fa-envelope"></i> Contact
-    </a>
+    <button class="btn-secondary" id="contact-btn" type="button" onclick="copyEmail()">
+      <i class="fa-solid fa-envelope"></i>
+      <span id="contact-label">Contact</span>
+    </button>
   </div>
+
+  <script>
+    function copyEmail() {
+      var btn = document.getElementById('contact-btn');
+      var label = document.getElementById('contact-label');
+      navigator.clipboard.writeText('minjaekwen@gmail.com').then(function() {
+        label.textContent = 'Copied!';
+        btn.classList.add('btn-copied');
+        setTimeout(function() {
+          label.textContent = 'Contact';
+          btn.classList.remove('btn-copied');
+        }, 2000);
+      });
+    }
+  </script>
 
   <section class="research-section">
     <div class="research-label">Research Areas</div>
