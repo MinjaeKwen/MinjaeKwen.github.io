@@ -5,14 +5,20 @@
 
   <body>
     <nav class="nav-main">
-      <ul class="nav-pc">
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">about me</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/research/">research</a></li>
-        <li class="logo"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/LOGO_WB_Sq.png" alt="Home"></a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">blog</a></li>
-        <li class="hvr-underline-reveal"><a href="/files/MinjaeKwen_CV.pdf">CV</a></li>
-      </ul>
+      <!-- Desktop: 3-column layout so logo is always exactly centered -->
+      <div class="nav-pc">
+        <div class="nav-group">
+          <a class="hvr-underline-reveal" href="{{ site.baseurl }}/about/">about me</a>
+          <a class="hvr-underline-reveal" href="{{ site.baseurl }}/research/">research</a>
+        </div>
+        <a class="nav-logo" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/LOGO_WB_Sq.png" alt="Home"></a>
+        <div class="nav-group">
+          <a class="hvr-underline-reveal" href="{{ site.baseurl }}/blog/">blog</a>
+          <a class="hvr-underline-reveal" href="/files/MinjaeKwen_CV.pdf">CV</a>
+        </div>
+      </div>
 
+      <!-- Mobile -->
       <ul class="nav-primary">
         <li class="logo"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/LOGO_WB_Sq.png" alt="Home"></a></li>
         <li class="menu-toggle" onclick="toggleMenu()">☰</li>
