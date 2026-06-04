@@ -18,7 +18,14 @@
     padding: 0;
     border-bottom: $nav-bottom-border-width solid $nav-bottom-border-color;
   }
- 
+
+  ul.nav-pc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+  }
+
   li {
     display: inline-block;
     a {
@@ -28,10 +35,6 @@
       padding: $nav-link-padding-y $nav-link-padding-x;
     }
   }
- 
-  li.logo {
-    vertical-align: middle;
-  }
 
   li.logo a {
     background: #ffffff;
@@ -39,14 +42,12 @@
     width: 1.9rem;
     height: 1.9rem;
     border-radius: 50%;
-    line-height: 1;
     margin: 0 0.75rem;
     padding: 0;
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    vertical-align: middle;
 
     img {
       width: 100%;

@@ -38,9 +38,33 @@ a {
 }
 
 footer {
-    text-align: center;
-    text-transform: lowercase;
-    margin-bottom: 2rem;
+  text-transform: lowercase;
+  margin-bottom: 2rem;
+}
+
+.footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: left;
+}
+
+.footer-logo {
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  border: 2px solid #008EAA;
+  object-fit: cover;
+  flex-shrink: 0;
+  margin: 0;
 }
 
 img {
