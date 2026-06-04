@@ -34,7 +34,9 @@
       <footer class="footer">
         <div class="footer-row">
           <div class="footer-brand">
-            <img src="{{ site.baseurl }}/images/LOGO_WB_Sq.png" alt="MK" class="footer-logo">
+            <div class="footer-logo-wrap">
+              <img src="{{ site.baseurl }}/images/LOGO_WB_Sq.png" alt="MK">
+            </div>
             <small>
               <span class="copyright"><i class="fa-regular fa-copyright"></i> 2024-<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}</span> &middot;
               <span>Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="https://www.netlify.com/">Netlify</a></span>
