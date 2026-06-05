@@ -11,6 +11,10 @@ $font-size-mobile: 15px;
 
 $code-font-stack: 'Source Code Pro', monospace;
 
+// Responsive breakpoint — single mobile transition point (em respects user zoom/font size).
+// 37.5em == 600px at the browser-default 16px.
+$breakpoint-mobile: 37.5em;
+
 // Body
 $body-text-color: #515151;
 $body-background-color: #ffffff;

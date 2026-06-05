@@ -100,7 +100,7 @@
     }
   }
 
-  @media (max-width: 38em) {
+  @media (max-width: $breakpoint-mobile) {
     margin-bottom: 2rem;
   }
 
@@ -109,7 +109,7 @@
     display: none;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: $breakpoint-mobile) {
     .nav-pc {
       display: none;
     }

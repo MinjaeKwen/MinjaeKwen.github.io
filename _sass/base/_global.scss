@@ -12,7 +12,7 @@ html {
   font-size: $font-size;
   line-height: 1.5;
 
-  @media (max-width: 38em) {
+  @media (max-width: $breakpoint-mobile) {
     font-size: $font-size-mobile;
   }
 }
@@ -61,7 +61,7 @@ footer {
 }
 
 // Narrow screens: stack brand above a centered icon row to avoid awkward wrapping
-@media (max-width: 38em) {
+@media (max-width: $breakpoint-mobile) {
   .footer-row {
     flex-direction: column;
     align-items: center;
@@ -157,7 +157,7 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Mobile: stack content & date */
-@media (max-width: 600px) {
+@media (max-width: $breakpoint-mobile) {
   .cv-row {
     flex-direction: column;
     align-items: flex-start;
