@@ -32,22 +32,25 @@ For more details, please visit the <strong><a href="https://minjaekwen.github.io
 <div class="cv-list">
   <div class="cv-row">
     <div class="cv-main">Ph.D. in <strong>Quantum Science &amp; Engineering</strong>, Harvard</div>
-    <div class="cv-date">Sep. 2025 – Present</div>
+    <div class="cv-date">2025 – Present</div>
   </div>
 
   <div class="cv-row">
-    <div class="cv-main">B.S. in <strong>Chemistry</strong> (Mat. Sci.), KAIST — <em>Valedictorian</em></div>
-    <div class="cv-date">Mar. 2019 – Feb. 2025</div>
+    <div class="cv-main">
+      B.S. in <strong>Chemistry</strong> (Mat. Sci.), KAIST
+      <div class="cv-sub"><em>Valedictorian</em></div>
+    </div>
+    <div class="cv-date">2019 – 2025</div>
   </div>
 
   <div class="cv-row">
     <div class="cv-main">KAIST-IITM Joint Research Challenge, IIT Madras</div>
-    <div class="cv-date">Jan. 2020</div>
+    <div class="cv-date">2020</div>
   </div>
 
   <div class="cv-row">
     <div class="cv-main">UC Berkeley Summer Session, UC Berkeley</div>
-    <div class="cv-date">Jun. 2019 – Aug. 2019</div>
+    <div class="cv-date">2019</div>
   </div>
 </div>
 
