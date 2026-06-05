@@ -39,6 +39,9 @@ a {
 
 footer {
   text-transform: lowercase;
+  margin-top: 3rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid #ececec;
   margin-bottom: 2rem;
 }
 
@@ -55,6 +58,25 @@ footer {
   align-items: center;
   gap: 0.75rem;
   text-align: left;
+}
+
+// Narrow screens: stack brand above a centered icon row to avoid awkward wrapping
+@media (max-width: 38em) {
+  .footer-row {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-brand {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .ftr-links {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .footer-logo-wrap {

@@ -4,7 +4,8 @@
   */
 
 // Globals
-$font-stack: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+// English renders in Inter; Korean has no Inter glyphs so it falls back to Pretendard.
+$font-stack: 'Inter', 'Pretendard', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $font-size: 17px;
 $font-size-mobile: 15px;
 
