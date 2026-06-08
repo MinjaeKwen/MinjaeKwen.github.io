@@ -20,7 +20,7 @@ I am <strong>Minjae Kwen</strong>, a Ph.D. student in the <a href="https://gsas.
 </p>
 
 <p style="text-align: justify;">
-My main research interest is <strong>quantum many-body theory</strong>. I work on <i>ab initio</i> quantum chemistry, condensed matter theory, and quantum dynamics. As an undergraduate, I studied catalytic reaction mechanisms and nonadiabatic dynamics (surface hopping) for photoelectrochemical devices. In graduate school, I aim to further develop my theoretical approaches.
+My main research interest is quantum information science. I currently work on the state preparation of quantum simulator. As an undergraduate, I studied catalytic reaction mechanisms and nonadiabatic dynamics (surface hopping) for photoelectrochemical devices. In graduate school, I aim to further develop my theoretical approaches.
 <br><br>
 For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
 </p>
