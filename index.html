@@ -222,9 +222,9 @@ title: Home
     <a href="/files/MinjaeKwen_CV.pdf" class="btn-primary">
       <i class="fa-solid fa-file-lines"></i> Curriculum Vitae
     </a>
-    <button class="btn-secondary" id="contact-btn" type="button" onclick="copyEmail()">
+    <button class="btn-secondary" id="contact-btn" type="button" onclick="copyEmail()" title="Click to copy my email address">
       <i class="fa-solid fa-envelope"></i>
-      <span id="contact-label">Contact</span>
+      <span id="contact-label">Email Address</span>
     </button>
   </div>
 
@@ -232,11 +232,11 @@ title: Home
     function copyEmail() {
       var btn = document.getElementById('contact-btn');
       var label = document.getElementById('contact-label');
-      navigator.clipboard.writeText('minjaekwen@gmail.com').then(function() {
+      navigator.clipboard.writeText(getEmail()).then(function() {
         label.textContent = 'Copied!';
         btn.classList.add('btn-copied');
         setTimeout(function() {
-          label.textContent = 'Contact';
+          label.textContent = 'Email Address';
           btn.classList.remove('btn-copied');
         }, 2000);
       });
