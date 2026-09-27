@@ -66,15 +66,14 @@ title: Research
 <div class="cv-list project-list">
   <details class="cv-group">
     <summary class="cv-row">
-      <div class="cv-main"><strong>Machine learning prediction of phonon dispersion in crystal</strong></div>
+      <div class="cv-main"><strong>ML Prediction of Phonon Dispersion</strong></div>
       <div class="cv-date">2025 – 2026</div>
     </summary>
     <div class="project-body">
       <img class="project-thumb" src="/images/R6_full.png" alt="Phonon dispersion project figure" />
       <dl class="project-facts">
         <div><dt>Lab</dt><dd>Lee group (CCB, Harvard), Prof. Joonho Lee</dd></div>
-        <div><dt>Duration</dt><dd>Sep. 2025 – Jan. 2026</dd></div>
-        <div><dt>Summary</dt><dd>Fine-tuned a foundation machine-learning interatomic potential on DFT structural data to predict crystal phonon dispersion, including the long-range LO–TO splitting correction.</dd></div>
+        <div><dt>Summary</dt><dd>Fine-tuned a foundation MLIP on DFT data to predict phonon dispersion, including LO–TO splitting.</dd></div>
         <div><dt>Result</dt><dd><a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">PDF</a></dd></div>
       </dl>
     </div>
@@ -82,15 +81,14 @@ title: Research
 
   <details class="cv-group">
     <summary class="cv-row">
-      <div class="cv-main"><strong>Screening pathways for nitrogen monoxide electroreduction on transition-metal TPP using density-functional theory</strong></div>
+      <div class="cv-main"><strong>DFT Screening for NO Electroreduction</strong></div>
       <div class="cv-date">2021 – 2023</div>
     </summary>
     <div class="project-body">
       <img class="project-thumb" src="/images/R3_full.png" alt="NO electroreduction project figure" />
       <dl class="project-facts">
         <div><dt>Lab</dt><dd><a href="https://www.m-design-lab.net/">M-design Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Prof. Hyungjun Kim</a> · with Junsoo Lee, Woojung Seung</dd></div>
-        <div><dt>Duration</dt><dd>Nov. 2021 – May 2023</dd></div>
-        <div><dt>Summary</dt><dd>DFT screening of transition metals for efficient NO reduction (NORR) electrocatalysts.</dd></div>
+        <div><dt>Summary</dt><dd>DFT screening of transition metals for NO electroreduction catalysts.</dd></div>
         <div><dt>Result</dt><dd>Poster presented at the Winter Symposium for Computational Material Science 2024 (by Junsoo Lee); follow-up study in preparation.</dd></div>
       </dl>
     </div>
@@ -98,30 +96,28 @@ title: Research
 
   <details class="cv-group">
     <summary class="cv-row">
-      <div class="cv-main"><strong>Synthesis, characterization, and application of various nanocatalysts</strong></div>
+      <div class="cv-main"><strong>Nanocatalyst Synthesis &amp; Application</strong></div>
       <div class="cv-date">2021</div>
     </summary>
     <div class="project-body">
       <img class="project-thumb" src="/images/R4_full.png" alt="Nanocatalyst project figure" />
       <dl class="project-facts">
         <div><dt>Lab</dt><dd><a href="https://small.kaist.ac.kr/">Nanocatalyst Research Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/24">Prof. Hyunjoon Song</a></dd></div>
-        <div><dt>Duration</dt><dd>Apr. 2021 – Aug. 2021</dd></div>
-        <div><dt>Summary</dt><dd>Synthesized Au nanoparticles, Ag nanorods and Cu MOFs, and applied them as electrocatalysts.</dd></div>
+        <div><dt>Summary</dt><dd>Synthesized Au, Ag and Cu-MOF nanomaterials for electrocatalysis.</dd></div>
       </dl>
     </div>
   </details>
 
   <details class="cv-group">
     <summary class="cv-row">
-      <div class="cv-main"><strong>Electrochemical potential window of molecularly crowded electrolytes with various Li salts</strong></div>
+      <div class="cv-main"><strong>Potential Windows of Crowded Electrolytes</strong></div>
       <div class="cv-date">2020 – 2021</div>
     </summary>
     <div class="project-body">
       <img class="project-thumb" src="/images/R5_full.png" alt="Electrolyte project figure" />
       <dl class="project-facts">
         <div><dt>Lab</dt><dd><a href="https://www.emdl.kaist.ac.kr/">Electrochemical Materials Design Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/22">Prof. Hye Ryung Byon</a></dd></div>
-        <div><dt>Duration</dt><dd>Dec. 2020 – Feb. 2021</dd></div>
-        <div><dt>Summary</dt><dd>Measured the electrochemical potential window of aqueous Li-ion battery electrolytes with various Li salts.</dd></div>
+        <div><dt>Summary</dt><dd>Measured potential windows of aqueous Li-ion electrolytes across Li salts.</dd></div>
         <div><dt>Result</dt><dd>Lab meeting presentation · <a href="/files/MinjaeKwen_Research5_EMDL.pdf">PDF</a></dd></div>
       </dl>
     </div>

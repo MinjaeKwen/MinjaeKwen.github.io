@@ -219,6 +219,11 @@ tbody tr:nth-child(odd) th {
   font-size: 0.95em;
 }
 
+/* Research page: breathing room between stops (inside the group, so the line still reaches the next dot) */
+.project-list .cv-group {
+  padding-bottom: 0.6rem;
+}
+
 /* Research page: an opened project shows its thumbnail beside the details */
 .project-body {
   display: grid;
