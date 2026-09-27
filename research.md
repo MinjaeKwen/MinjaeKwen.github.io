@@ -19,7 +19,7 @@ title: Research
 <ol style="margin: 0.6rem 0 0 0; padding-left: 1.4rem;">
   <li style="margin-bottom: 1rem;">
     <span style="font-size: 92%; opacity: 0.95;">
-      Yaejun Baik, <strong>Minjae Kwen</strong>, Kyungho Lee, <i>et al.</i>
+      Yaejun Baik<sup>†</sup>, <strong>Minjae Kwen</strong><sup>†</sup>, Kyungho Lee, <i>et al.</i>
     </span><br>
     <a href="https://minjaekwen.github.io/research1">
       <strong>
@@ -89,7 +89,7 @@ title: Research
       <dl class="project-facts">
         <div><dt>Lab</dt><dd><a href="https://www.m-design-lab.net/">M-design Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Prof. Hyungjun Kim</a> · with Junsoo Lee, Woojung Seung</dd></div>
         <div><dt>Summary</dt><dd>DFT screening of transition metals for NO electroreduction catalysts.</dd></div>
-        <div><dt>Result</dt><dd>Poster presented at the Winter Symposium for Computational Material Science 2024 (by Junsoo Lee); follow-up study in preparation.</dd></div>
+        <div><dt>Result</dt><dd>Poster presented by a co-worker</dd></div>
       </dl>
     </div>
   </details>
