@@ -195,34 +195,44 @@ title: Home
 /* Vertical on phones: each stop draws its segment down to the next dot,
    so the line ends exactly at the last stop */
 @media (max-width: 40.3em) {
+  .research-line-head {
+    font-size: 0.85rem;
+  }
+
   .research-stops {
     grid-template-columns: 1fr;
-    gap: 1.1rem;
+    gap: 1.25rem;
   }
 
   .research-stops::before {
     display: none;
   }
 
+  /* Root font drops to 15px here, so size up to stay readable */
   .research-stop {
     text-align: left;
-    padding-left: 1.75rem;
+    padding-left: 2rem;
+    font-size: 1.05rem;
   }
 
+  /* 14px dot centered on the first text line */
   .research-stop::before {
     position: absolute;
     left: 0;
-    top: 0.2rem;
+    top: calc((1.35em - 14px) / 2);
+    width: 14px;
+    height: 14px;
     margin: 0;
   }
 
+  /* Segment from this dot's center to the next one's */
   .research-stop:not(:last-child)::after {
     content: '';
     position: absolute;
-    left: 4px;
+    left: 6px;
     width: 2px;
-    top: calc(0.2rem + 5px);
-    bottom: calc(-1.1rem - 0.2rem - 5px);
+    top: calc(1.35em / 2);
+    bottom: calc(-1.25rem - 1.35em / 2);
     background: #008EAA;
   }
 }

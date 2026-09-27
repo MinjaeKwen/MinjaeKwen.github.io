@@ -156,6 +156,45 @@ tbody tr:nth-child(odd) th {
   opacity: 0.9;
 }
 
+/* Collapsible groups (native <details>): degree as the title, experiences inside */
+.cv-group > summary {
+  list-style: none;
+  cursor: pointer;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #008EAA;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  // Chevron sits in the left gutter so the titles stay aligned with the heading
+  .cv-main {
+    position: relative;
+  }
+
+  .cv-main::before {
+    content: '▸';
+    position: absolute;
+    left: -1.1em;
+    color: #008EAA;
+    transition: transform 0.15s;
+  }
+}
+
+.cv-group[open] > summary .cv-main::before {
+  transform: rotate(90deg);
+}
+
+.cv-children {
+  margin: 0 0 0.5rem 0.3rem;
+  padding-left: 1rem;
+  border-left: 2px solid #e0f4f8;
+}
+
 /* Mobile: stack content & date */
 @media (max-width: $breakpoint-mobile) {
   .cv-row {

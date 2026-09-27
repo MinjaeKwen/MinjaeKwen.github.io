@@ -20,7 +20,7 @@ I am <strong>Minjae Kwen</strong>, a Ph.D. student in the <a href="https://gsas.
 </p>
 
 <p style="text-align: justify;">
-My main research interest is quantum information science. I currently work on the state preparation of quantum simulator. As an undergraduate, I studied catalytic reaction mechanisms and nonadiabatic dynamics (surface hopping) for photoelectrochemical devices. In graduate school, I aim to further develop my theoretical approaches.
+My main research interest is quantum information science. I currently work on pulse-level control and state preparation in analog quantum simulators, and on quantum reservoir computing. I am also interested in quantum channels and open-system dynamics. As an undergraduate, I studied catalytic reaction mechanisms and nonadiabatic dynamics.
 <br><br>
 For more details, please visit the <strong><a href="https://minjaekwen.github.io/research/">"Research"</a></strong> section.
 </p>
@@ -30,34 +30,39 @@ For more details, please visit the <strong><a href="https://minjaekwen.github.io
 </p>
 
 <div class="cv-list">
-  <div class="cv-row">
-    <div class="cv-main">Ph.D. in <strong>Quantum Science &amp; Engineering</strong>, Harvard</div>
-    <div class="cv-date">2025 – Present</div>
-  </div>
-
-  <div class="cv-row">
-    <div class="cv-main">
-      B.S. in <strong>Chemistry</strong> (Mat. Sci.), KAIST
-      <div class="cv-sub"><em>Valedictorian</em></div>
+  <details class="cv-group">
+    <summary class="cv-row">
+      <div class="cv-main">Ph.D. in <strong>Quantum Science &amp; Engineering</strong>, Harvard</div>
+      <div class="cv-date">2025 – Present</div>
+    </summary>
+    <div class="cv-children">
+      <div class="cv-row">
+        <div class="cv-main">Bad Honnef Physics School – Quantum Machine Learning, DPG</div>
+        <div class="cv-date">2026</div>
+      </div>
     </div>
-    <div class="cv-date">2019 – 2025</div>
-  </div>
+  </details>
 
-  <div class="cv-row">
-    <div class="cv-main">KAIST-IITM Joint Research Challenge, IIT Madras</div>
-    <div class="cv-date">2020</div>
-  </div>
-
-  <div class="cv-row">
-    <div class="cv-main">UC Berkeley Summer Session, UC Berkeley</div>
-    <div class="cv-date">2019</div>
-  </div>
+  <details class="cv-group">
+    <summary class="cv-row">
+      <div class="cv-main">
+        B.S. in <strong>Chemistry</strong> (Mat. Sci.), KAIST
+        <div class="cv-sub"><em>Valedictorian</em></div>
+      </div>
+      <div class="cv-date">2019 – 2025</div>
+    </summary>
+    <div class="cv-children">
+      <div class="cv-row">
+        <div class="cv-main">KAIST-IITM Joint Research Challenge, IIT Madras</div>
+        <div class="cv-date">2020</div>
+      </div>
+      <div class="cv-row">
+        <div class="cv-main">UC Berkeley Summer Session, UC Berkeley</div>
+        <div class="cv-date">2019</div>
+      </div>
+    </div>
+  </details>
 </div>
-
-<p style="text-align: justify; margin-top: 1rem;">
-In terms of technical skills, I am proficient in the Linux environment.
-My primary programming languages include Python, C++, and Shell script, with additional experience in other languages such as JAVA and HTML.
-</p>
 
 <!--
 <p style="font-size: 150%;">
