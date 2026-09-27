@@ -47,7 +47,7 @@ title: Home
 
 .landing-badge::before {
   content: '•';
-  color: #893125;
+  color: #008EAA;
 }
 
 .landing-bio {
@@ -121,6 +121,104 @@ title: Home
   color: #005f75 !important;
   border-color: #008EAA !important;
 }
+
+/* Research interests drawn as a single transit line */
+.research-line {
+  margin: 0.75rem 0 2.5rem;
+}
+
+.research-line-head {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #008EAA;
+  margin: 0 0 1.5rem;
+}
+
+.research-line-head::before {
+  content: '— ';
+}
+
+.research-stops {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  position: relative;
+}
+
+/* Horizontal: one line from the first dot's center to the last */
+.research-stops::before {
+  content: '';
+  position: absolute;
+  left: 12.5%;
+  right: 12.5%;
+  top: 4px;
+  height: 2px;
+  background: #008EAA;
+}
+
+.research-stop {
+  position: relative;
+  text-align: center;
+  padding: 0 0.25rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #1a1a1a;
+  text-wrap: balance;
+}
+
+.research-stop::before {
+  content: '';
+  box-sizing: border-box;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0 auto 0.8rem;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid #008EAA;
+  position: relative;
+  z-index: 1;
+}
+
+/* Vertical on phones: each stop draws its segment down to the next dot,
+   so the line ends exactly at the last stop */
+@media (max-width: 40.3em) {
+  .research-stops {
+    grid-template-columns: 1fr;
+    gap: 1.1rem;
+  }
+
+  .research-stops::before {
+    display: none;
+  }
+
+  .research-stop {
+    text-align: left;
+    padding-left: 1.75rem;
+  }
+
+  .research-stop::before {
+    position: absolute;
+    left: 0;
+    top: 0.2rem;
+    margin: 0;
+  }
+
+  .research-stop:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    left: 4px;
+    width: 2px;
+    top: calc(0.2rem + 5px);
+    bottom: calc(-1.1rem - 0.2rem - 5px);
+    background: #008EAA;
+  }
+}
 </style>
 
 <div class="landing">
@@ -137,9 +235,20 @@ title: Home
     I am <strong>Minjae Kwen</strong>, a Ph.D. student in the
     <a href="https://gsas.harvard.edu/program/quantum-science-and-engineering">Quantum Science and Engineering program</a>
     at <a href="https://www.harvard.edu/">Harvard University</a>.
-    My research focuses on quantum information science, quantum many-body theory, condensed matter theory,
-    and quantum dynamics.
+    My research focuses on pulse-level control and state preparation in analog quantum simulators,
+    and on quantum reservoir computing.
+    I am also interested in quantum channels and open-system dynamics.
   </p>
+
+  <section class="research-line">
+    <h3 class="research-line-head">Research Interests</h3>
+    <ol class="research-stops">
+      <li class="research-stop">Quantum Control of Analog Simulators</li>
+      <li class="research-stop">Quantum Reservoir Computing</li>
+      <li class="research-stop">Quantum Channels &amp; Open Dynamics</li>
+      <li class="research-stop">Ab Initio Materials Simulation</li>
+    </ol>
+  </section>
 
   <div class="landing-cta">
     <a href="/files/MinjaeKwen_CV.pdf" class="btn-primary">
