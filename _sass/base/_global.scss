@@ -162,6 +162,9 @@ tbody tr:nth-child(odd) th {
 .cv-group {
   position: relative;
   padding-left: 2rem;
+  // Keep the opened content's bottom margin inside the group; otherwise it collapses
+  // out past the group's edge and the line stops short of the next dot
+  display: flow-root;
 }
 
 .cv-group > summary {
