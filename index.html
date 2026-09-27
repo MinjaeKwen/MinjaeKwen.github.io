@@ -146,15 +146,17 @@ title: Home
   padding: 0;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  column-gap: 1.5rem;
   position: relative;
 }
 
-/* Horizontal: one line from the first dot's center to the last */
+/* Horizontal: one line from the first dot's center to the last
+   (a column center sits at half a column width = (100% - 3 gaps) / 8) */
 .research-stops::before {
   content: '';
   position: absolute;
-  left: 12.5%;
-  right: 12.5%;
+  left: calc((100% - 4.5rem) / 8);
+  right: calc((100% - 4.5rem) / 8);
   top: 4px;
   height: 2px;
   background: #008EAA;
@@ -164,7 +166,7 @@ title: Home
   position: relative;
   text-align: center;
   padding: 0 0.25rem;
-  font-size: 0.88rem;
+  font-size: 0.83rem;
   font-weight: 600;
   line-height: 1.35;
   color: #1a1a1a;
@@ -183,6 +185,11 @@ title: Home
   border: 2px solid #008EAA;
   position: relative;
   z-index: 1;
+  transition: background 0.15s;
+}
+
+.research-stop:hover::before {
+  background: #008EAA;
 }
 
 /* Vertical on phones: each stop draws its segment down to the next dot,
@@ -243,10 +250,10 @@ title: Home
   <section class="research-line">
     <h3 class="research-line-head">Research Interests</h3>
     <ol class="research-stops">
-      <li class="research-stop">Quantum Control of Analog Simulators</li>
+      <li class="research-stop">Analog Quantum Control</li>
       <li class="research-stop">Quantum Reservoir Computing</li>
-      <li class="research-stop">Quantum Channels &amp; Open Dynamics</li>
-      <li class="research-stop">Ab Initio Materials Simulation</li>
+      <li class="research-stop">Open Quantum Dynamics</li>
+      <li class="research-stop">Ab Initio Simulation</li>
     </ol>
   </section>
 
