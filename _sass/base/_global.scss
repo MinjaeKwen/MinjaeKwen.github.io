@@ -219,12 +219,56 @@ tbody tr:nth-child(odd) th {
   font-size: 0.95em;
 }
 
+/* Research page: an opened project shows its thumbnail beside the details */
+.project-body {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.1rem;
+  align-items: start;
+  margin: 0.5rem 0 1rem 1.5rem;
+  font-size: 0.92rem;
+}
+
+.project-thumb {
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+  background: #fff;
+  padding: 6px;
+}
+
+.project-facts {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0;
+
+  dt {
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #005f75;
+  }
+
+  dd {
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
 /* Mobile: stack content & date */
 @media (max-width: $breakpoint-mobile) {
   .cv-row {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.2rem;
+  }
+
+  .project-body {
+    grid-template-columns: 1fr;
   }
 
   .cv-date {

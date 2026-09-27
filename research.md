@@ -63,85 +63,71 @@ title: Research
   <strong>Research Projects</strong>
 </p>
 
-<table>
-  <tbody>
-    <!-- Project 6 -->
-    <tr>
-      <td style="width: 180px; vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research6">
-          <img src="/images/R6_full.png" 
-              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
-        </a>
-      </td>
-      <td style="vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research6">
-          <strong>
-            Machine Learning prediction of phonon dispersion in crystal
-          </strong>
-        </a>
-        <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Finished · 
-      <a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">PDF</a>.
-        </div>
-      </td>
-    </tr>
-    <!-- Project 3 -->
-    <tr>
-      <td style="width: 180px; vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research3">
-          <img src="/images/R3_full.png" 
-              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
-        </a>
-      </td>
-      <td style="vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research3">
-          <strong>
-            Screening pathways for nitrogen monoxide electroreduction on transition-metal TPP using density-functional theory
-          </strong>
-        </a>
-        <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Finished. 
-        </div>
-      </td>
-    </tr>
-    <!-- Project 4 -->
-    <tr>
-      <td style="width: 180px; vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research4">
-          <img src="/images/R4_full.png" 
-              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
-        </a>
-      </td>
-      <td style="vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research4">
-          <strong>Synthesis, characterization, and application of various nanocatalysts</strong>
-        </a>
-        <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Finished. 
-        </div>
-      </td>
-    </tr>
-    <!-- Project 5 -->
-    <tr>
-      <td style="width: 180px; vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research5">
-          <img src="/images/R5_full.png" 
-              style="width: 160px; height: auto; margin: 0; border-radius: 6px; border: 1px solid #e5e5e5; background: #fff; padding: 6px;" />
-        </a>
-      </td>
-      <td style="vertical-align: middle;">
-        <a href="https://minjaekwen.github.io/research5">
-          <strong>
-            Electrochemical potential window of molecularly crowded electrolytes with various Li salts
-          </strong>
-        </a>
-        <div style="font-size: 92%; opacity: 0.9; margin-top: 0.3rem;">
-          Finished. 
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="cv-list project-list">
+  <details class="cv-group">
+    <summary class="cv-row">
+      <div class="cv-main"><strong>Machine learning prediction of phonon dispersion in crystal</strong></div>
+      <div class="cv-date">2025 – 2026</div>
+    </summary>
+    <div class="project-body">
+      <img class="project-thumb" src="/images/R6_full.png" alt="Phonon dispersion project figure" />
+      <dl class="project-facts">
+        <div><dt>Lab</dt><dd>Lee group (CCB, Harvard), Prof. Joonho Lee</dd></div>
+        <div><dt>Duration</dt><dd>Sep. 2025 – Jan. 2026</dd></div>
+        <div><dt>Summary</dt><dd>Fine-tuned a foundation machine-learning interatomic potential on DFT structural data to predict crystal phonon dispersion, including the long-range LO–TO splitting correction.</dd></div>
+        <div><dt>Result</dt><dd><a href="/files/Machine_Learning_Prediction_of_Phonon_Dispersion.pdf">PDF</a></dd></div>
+      </dl>
+    </div>
+  </details>
+
+  <details class="cv-group">
+    <summary class="cv-row">
+      <div class="cv-main"><strong>Screening pathways for nitrogen monoxide electroreduction on transition-metal TPP using density-functional theory</strong></div>
+      <div class="cv-date">2021 – 2023</div>
+    </summary>
+    <div class="project-body">
+      <img class="project-thumb" src="/images/R3_full.png" alt="NO electroreduction project figure" />
+      <dl class="project-facts">
+        <div><dt>Lab</dt><dd><a href="https://www.m-design-lab.net/">M-design Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/20">Prof. Hyungjun Kim</a> · with Junsoo Lee, Woojung Seung</dd></div>
+        <div><dt>Duration</dt><dd>Nov. 2021 – May 2023</dd></div>
+        <div><dt>Summary</dt><dd>DFT screening of transition metals for efficient NO reduction (NORR) electrocatalysts.</dd></div>
+        <div><dt>Result</dt><dd>Poster presented at the Winter Symposium for Computational Material Science 2024 (by Junsoo Lee); follow-up study in preparation.</dd></div>
+      </dl>
+    </div>
+  </details>
+
+  <details class="cv-group">
+    <summary class="cv-row">
+      <div class="cv-main"><strong>Synthesis, characterization, and application of various nanocatalysts</strong></div>
+      <div class="cv-date">2021</div>
+    </summary>
+    <div class="project-body">
+      <img class="project-thumb" src="/images/R4_full.png" alt="Nanocatalyst project figure" />
+      <dl class="project-facts">
+        <div><dt>Lab</dt><dd><a href="https://small.kaist.ac.kr/">Nanocatalyst Research Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/24">Prof. Hyunjoon Song</a></dd></div>
+        <div><dt>Duration</dt><dd>Apr. 2021 – Aug. 2021</dd></div>
+        <div><dt>Summary</dt><dd>Synthesized Au nanoparticles, Ag nanorods and Cu MOFs, and applied them as electrocatalysts.</dd></div>
+      </dl>
+    </div>
+  </details>
+
+  <details class="cv-group">
+    <summary class="cv-row">
+      <div class="cv-main"><strong>Electrochemical potential window of molecularly crowded electrolytes with various Li salts</strong></div>
+      <div class="cv-date">2020 – 2021</div>
+    </summary>
+    <div class="project-body">
+      <img class="project-thumb" src="/images/R5_full.png" alt="Electrolyte project figure" />
+      <dl class="project-facts">
+        <div><dt>Lab</dt><dd><a href="https://www.emdl.kaist.ac.kr/">Electrochemical Materials Design Laboratory</a> (KAIST), <a href="https://chem.kaist.ac.kr/eng/faculty/view/id/22">Prof. Hye Ryung Byon</a></dd></div>
+        <div><dt>Duration</dt><dd>Dec. 2020 – Feb. 2021</dd></div>
+        <div><dt>Summary</dt><dd>Measured the electrochemical potential window of aqueous Li-ion battery electrolytes with various Li salts.</dd></div>
+        <div><dt>Result</dt><dd>Lab meeting presentation · <a href="/files/MinjaeKwen_Research5_EMDL.pdf">PDF</a></dd></div>
+      </dl>
+    </div>
+  </details>
+</div>
+
 
 
 
